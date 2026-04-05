@@ -1,0 +1,1014 @@
+{
+  "paper_code": "073/23",
+  "booklet_alpha": "A",
+  "total_questions": 100,
+  "time_minutes": 90,
+  "max_marks": 100,
+  "marking_scheme": {
+    "correct": 1,
+    "wrong": -0.333,
+    "unattempted": 0
+  },
+  "questions": [
+    {
+      "q_no": 1,
+      "question": "The curvature of the earth's surface is taken into account only if the extent of survey is more than",
+      "options": {
+        "A": "260 sq. km",
+        "B": "160 sq. km",
+        "C": "60 sq. km",
+        "D": "600 sq. km"
+      }
+    },
+    {
+      "q_no": 2,
+      "question": "Principle of surveying followed to prevent accumulation of errors is",
+      "options": {
+        "A": "To work from part to whole",
+        "B": "To work from whole to part",
+        "C": "Both A) and B)",
+        "D": "None of these"
+      }
+    },
+    {
+      "q_no": 3,
+      "question": "Error due to bad ranging is",
+      "options": {
+        "A": "Cumulative positive",
+        "B": "Cumulative negative",
+        "C": "Compensating",
+        "D": "Both A) and B)"
+      }
+    },
+    {
+      "q_no": 4,
+      "question": "A well-conditioned triangle has angles not less than and more than respectively",
+      "options": {
+        "A": "20° and 120°",
+        "B": "90° and 120°",
+        "C": "10° and 90°",
+        "D": "None of these"
+      }
+    },
+    {
+      "q_no": 5,
+      "question": "Number of links in a 30 m metric chain is",
+      "options": {
+        "A": "150",
+        "B": "100",
+        "C": "200",
+        "D": "180"
+      }
+    },
+    {
+      "q_no": 6,
+      "question": "If magnetic bearing of sun at noon at a place in southern hemisphere is 150°, then magnetic declination at that place is",
+      "options": {
+        "A": "20° E",
+        "B": "30° E",
+        "C": "30° W",
+        "D": "20° W"
+      }
+    },
+    {
+      "q_no": 7,
+      "question": "Two-point problem and three-point problem are method of",
+      "options": {
+        "A": "Resection",
+        "B": "Orientation",
+        "C": "Orientation and resection",
+        "D": "None of these"
+      }
+    },
+    {
+      "q_no": 8,
+      "question": "Which is an odd instrument with regards to levelling?",
+      "options": {
+        "A": "Clinometer",
+        "B": "Planimeter",
+        "C": "Altimeter",
+        "D": "Abney hand level"
+      }
+    },
+    {
+      "q_no": 9,
+      "question": "The method of levelling used to carry out the reconnaissance of area is",
+      "options": {
+        "A": "Profile levelling",
+        "B": "Check levelling",
+        "C": "Fly levelling",
+        "D": "Simple levelling"
+      }
+    },
+    {
+      "q_no": 10,
+      "question": "A series of closely spaced contour lines represents a",
+      "options": {
+        "A": "Horizontal surface",
+        "B": "Steep slope",
+        "C": "Uniform slope",
+        "D": "Gentle slope"
+      }
+    },
+    {
+      "q_no": 11,
+      "question": "The theodolite is an instrument used for measuring very accurately",
+      "options": {
+        "A": "Vertical angles only",
+        "B": "Horizontal angles only",
+        "C": "Horizontal and vertical angles",
+        "D": "Linear measurements"
+      }
+    },
+    {
+      "q_no": 12,
+      "question": "In any closed traverse, if the survey work is correct, then",
+      "options": {
+        "A": "The algebraic sum of latitudes should be equal to zero",
+        "B": "The algebraic sum of departures should be equal to zero",
+        "C": "The sum of northings should be equal to the sum of southings",
+        "D": "All of the above"
+      }
+    },
+    {
+      "q_no": 13,
+      "question": "Two theodolite method of setting out a curve involves",
+      "options": {
+        "A": "Angular measurements only",
+        "B": "Linear measurements only",
+        "C": "Both linear and angular measurements",
+        "D": "None of these"
+      }
+    },
+    {
+      "q_no": 14,
+      "question": "A curve of varying radius is known as",
+      "options": {
+        "A": "Simple curve",
+        "B": "Compound curve",
+        "C": "Reverse curve",
+        "D": "Transition curve"
+      }
+    },
+    {
+      "q_no": 15,
+      "question": "Volume of earthwork computed by the prismoidal formula, as compared to that by the trapezoidal formula is",
+      "options": {
+        "A": "Small",
+        "B": "Large",
+        "C": "Equal",
+        "D": "None of these"
+      }
+    },
+    {
+      "q_no": 16,
+      "question": "Mean sea level at any place is the average datum of hourly tide height observed over a period of nearly",
+      "options": {
+        "A": "5 years",
+        "B": "10 years",
+        "C": "20 years",
+        "D": "50 years"
+      }
+    },
+    {
+      "q_no": 17,
+      "question": "In theodolite traversing, for the calculation of independent rectangular co-ordinates from the field observations, some of the computations are indicated below:\n1. Computation of reduced bearing of each traverse leg\n2. Calculation of the closing error\n3. Balancing of consecutive co-ordinates\n4. Calculation of consecutive co-ordinates\nThe correct sequence in which these computations are to be made is",
+      "options": {
+        "A": "1, 2, 3, 4",
+        "B": "2, 4, 3, 1",
+        "C": "1, 4, 2, 3",
+        "D": "3, 1, 4, 2"
+      }
+    },
+    {
+      "q_no": 18,
+      "question": "Which of the following is considered as modern GPS technology?",
+      "options": {
+        "A": "Kinematic positioning technique",
+        "B": "GIS",
+        "C": "GPS mode",
+        "D": "Instantaneous mode"
+      }
+    },
+    {
+      "q_no": 19,
+      "question": "Which instrument is a combination of EDM, electronic theodolite and microprocessor?",
+      "options": {
+        "A": "Diatomite",
+        "B": "Tellurometer",
+        "C": "Total Station",
+        "D": "Tacheometer"
+      }
+    },
+    {
+      "q_no": 20,
+      "question": "What is the disadvantage of Total Station?",
+      "options": {
+        "A": "Full GIS creation",
+        "B": "Automation of old maps",
+        "C": "Local language support",
+        "D": "The instrument is costly"
+      }
+    },
+    {
+      "q_no": 21,
+      "question": "The most reliable estimate is",
+      "options": {
+        "A": "Detailed estimate",
+        "B": "Preliminary estimate",
+        "C": "Plinth area estimate",
+        "D": "Cube rate estimate"
+      }
+    },
+    {
+      "q_no": 22,
+      "question": "In long and short wall method of estimation, the length of long wall is the centre to centre distance between the walls and",
+      "options": {
+        "A": "Breadth of the wall",
+        "B": "Half breadth of wall on each side",
+        "C": "One fourth breadth of wall on each side",
+        "D": "None of these"
+      }
+    },
+    {
+      "q_no": 23,
+      "question": "The unit of payment for steel work in rolled steel sections, i.e. in R.S. joists, flats, tees, angles and channels is in",
+      "options": {
+        "A": "Square meter",
+        "B": "Cubic meter",
+        "C": "Quintals",
+        "D": "Running meter"
+      }
+    },
+    {
+      "q_no": 24,
+      "question": "The unit of payment for A.C. sheet roofing is in",
+      "options": {
+        "A": "Meter length",
+        "B": "Square meter",
+        "C": "Cubic meter",
+        "D": "Quintals"
+      }
+    },
+    {
+      "q_no": 25,
+      "question": "The loss of value of a property by its becoming out of date in style, in design, in structure etc., is called as",
+      "options": {
+        "A": "Scrap value",
+        "B": "Salvage value",
+        "C": "Distress value",
+        "D": "Obsolescence"
+      }
+    },
+    {
+      "q_no": 26,
+      "question": "The value of a property building after its working tenure without being dismantled is known as",
+      "options": {
+        "A": "Market value",
+        "B": "Scrap value",
+        "C": "Salvage value",
+        "D": "Book value"
+      }
+    },
+    {
+      "q_no": 27,
+      "question": "The rate of payment is made for 100 cu.m. (per % cu.m.) in case of",
+      "options": {
+        "A": "D.P.C. work",
+        "B": "Concrete work",
+        "C": "Brick work",
+        "D": "Earth work in excavation"
+      }
+    },
+    {
+      "q_no": 28,
+      "question": "Which of the following is not a method of calculating depreciation?",
+      "options": {
+        "A": "Straight line method",
+        "B": "Years Purchase method",
+        "C": "Constant Percentage method",
+        "D": "Sinking Fund method"
+      }
+    },
+    {
+      "q_no": 29,
+      "question": "Generally while specifying for earth work in foundation trenches, drains etc., lead is specified as",
+      "options": {
+        "A": "1.5 m",
+        "B": "30 m",
+        "C": "50 m",
+        "D": "100 m"
+      }
+    },
+    {
+      "q_no": 30,
+      "question": "The annual periodic payments for repayment of the capital amount invested by a party is known as",
+      "options": {
+        "A": "Annuity",
+        "B": "Capital cost",
+        "C": "Capitalized value",
+        "D": "Depreciation"
+      }
+    },
+    {
+      "q_no": 31,
+      "question": "Statement I: Eruptive rocks were formed by cooling of hot molten mass called magma.\nStatement II: Trap is an example of plutonic igneous rock.\nOut of following, which option is correct?",
+      "options": {
+        "A": "Statement I and Statement II are True",
+        "B": "Statement I is True and Statement II is False",
+        "C": "Statement I is False and Statement II is True",
+        "D": "Statement I and Statement II are False"
+      }
+    },
+    {
+      "q_no": 32,
+      "question": "Statement I: Ordinary Portland cement gains about 40% of its final strength in 3 days and 70% of its strength in 28 days.\nStatement II: Initial setting of Portland cement is almost entirely due to Tricalcium silicate.\nOut of following, which option is correct?",
+      "options": {
+        "A": "Statement I and Statement II are True",
+        "B": "Statement I is False and Statement II is True",
+        "C": "Statement I is True and Statement II is False",
+        "D": "Statement I and Statement II are False"
+      }
+    },
+    {
+      "q_no": 33,
+      "question": "Match list – I with list – II. The composition of good brick earth is given. Which option is correctly matched?\nList-I: I. Silica, II. Alumina, III. Lime, IV. Magnesia\nList-II: i. less than 1%, ii. 2–5%, iii. 20–30%, iv. 50–60%",
+      "options": {
+        "A": "I-iii, II-ii, III-i, IV-iv",
+        "B": "I-ii, II-i, III-iv, IV-iii",
+        "C": "I-iv, II-iii, III-ii, IV-i",
+        "D": "I-i, II-iv, III-iii, IV-ii"
+      }
+    },
+    {
+      "q_no": 34,
+      "question": "Quick lime is also called",
+      "options": {
+        "A": "White lime",
+        "B": "Rich lime",
+        "C": "Pure lime",
+        "D": "Caustic lime"
+      }
+    },
+    {
+      "q_no": 35,
+      "question": "Which of the following is not a method of proportioning concrete mixes?",
+      "options": {
+        "A": "Arbitrary method",
+        "B": "Vee-bee consistometer method",
+        "C": "Minimum voids method",
+        "D": "Fineness modulus and water-cement ratio method"
+      }
+    },
+    {
+      "q_no": 36,
+      "question": "Which of the statement is true?",
+      "options": {
+        "A": "Rapid Hardening Portland cement possesses less C3S and more C2S than the ordinary Portland Cement.",
+        "B": "Low heat Portland cement has low percentages of C3A and more C3S and less C2S.",
+        "C": "Sulphate Resisting Cement has C3A content below 5%.",
+        "D": "In Portland Blast Furnace Cement, the proportion of slag being not less than 15% or more than 75% by weight of cement."
+      }
+    },
+    {
+      "q_no": 37,
+      "question": "The larger the maximum size of aggregate and coarser the grading, the amount of water required for a given workability is",
+      "options": {
+        "A": "Increased",
+        "B": "Decreased",
+        "C": "Same as before",
+        "D": "Not predicted"
+      }
+    },
+    {
+      "q_no": 38,
+      "question": "Crushing of fibres running transversely during the growth of the tree due to strong winds is known as",
+      "options": {
+        "A": "Upsets",
+        "B": "End splits",
+        "C": "Twisted fibres",
+        "D": "Rind galls"
+      }
+    },
+    {
+      "q_no": 39,
+      "question": "As per IS 14315:1995, maximum thickness of commercial veneers shall be",
+      "options": {
+        "A": "2 mm",
+        "B": "4 mm",
+        "C": "6 mm",
+        "D": "3 mm"
+      }
+    },
+    {
+      "q_no": 40,
+      "question": "The non-ferrous metals and its ores is given. Match list – I with list – II.\nList-I: I. Aluminium, II. Copper, III. Zinc, IV. Lead, V. Tin\nList-II: i. Galena, ii. Black jack, iii. Cassiterite, iv. Chalcopyrite, v. Bauxite",
+      "options": {
+        "A": "I-v, II-ii, III-i, IV-iii, V-iv",
+        "B": "I-v, II-ii, III-iii, IV-i, V-iv",
+        "C": "I-v, II-iv, III-ii, IV-i, V-iii",
+        "D": "I-v, II-i, III-iii, IV-iv, V-ii"
+      }
+    },
+    {
+      "q_no": 41,
+      "question": "Method of terminating a wall with alternate courses projecting is known as",
+      "options": {
+        "A": "Brick nogging",
+        "B": "Brick laying",
+        "C": "Racking",
+        "D": "Toothing"
+      }
+    },
+    {
+      "q_no": 42,
+      "question": "Piece of timber in door or window fixed in an inclined position within a frame is known as",
+      "options": {
+        "A": "Jamp",
+        "B": "Louvre",
+        "C": "Mullion",
+        "D": "Transom"
+      }
+    },
+    {
+      "q_no": 43,
+      "question": "The end bearing for lintels should be greater than:\ni. 100 mm\nii. depth of lintel\niii. Breadth of brick wall\niv. 1/12th of span\nOut of the above, which option is correct?",
+      "options": {
+        "A": "All the above",
+        "B": "Only i, ii and iii",
+        "C": "Only i, ii and iv",
+        "D": "Only iii and iv"
+      }
+    },
+    {
+      "q_no": 44,
+      "question": "Match list – I with list – II. Match the terms with its correct explanation.\nList-I: I. Battens, II. Purlins, III. Hip rafters, IV. Valley rafters, V. Jack rafters\nList-II: i. Rafters which run diagonally from ridge to the eaves, ii. Rafters which run diagonally from ridge to the corners of the wall, iii. Rafters which run from hip to the valley, iv. Members nailed to the rafters to give supports for the roof covering material, v. Members supported by truss or wall and are used to support the common rafters",
+      "options": {
+        "A": "I-v, II-iv, III-iii, IV-ii, V-i",
+        "B": "I-iv, II-v, III-ii, IV-i, V-iii",
+        "C": "I-v, II-iv, III-i, IV-iii, V-ii",
+        "D": "I-iv, II-v, III-iii, IV-ii, V-i"
+      }
+    },
+    {
+      "q_no": 45,
+      "question": "As per IS 456:2000, the minimum period before striking formwork for soffit formwork to beams is",
+      "options": {
+        "A": "3 days",
+        "B": "5 days",
+        "C": "7 days",
+        "D": "10 days"
+      }
+    },
+    {
+      "q_no": 46,
+      "question": "List the methods of post-tensioning in prestressed concrete.\nI. Freyssinet system\nII. Magnel-Blaton system\nIII. Baur-Leonhardt system\nIV. Lee-McCall system",
+      "options": {
+        "A": "I, II, III and IV",
+        "B": "Only I and II",
+        "C": "Only I and IV",
+        "D": "Only I, II and IV"
+      }
+    },
+    {
+      "q_no": 47,
+      "question": "Which of the following are deep foundation?\nI. Strap footing\nII. Mat foundation\nIII. Well foundation\nIV. Pile foundation",
+      "options": {
+        "A": "Only I and III",
+        "B": "Only I and II",
+        "C": "Only II and IV",
+        "D": "Only III and IV"
+      }
+    },
+    {
+      "q_no": 48,
+      "question": "Which of the following is not a requirement of good stair case?",
+      "options": {
+        "A": "Width of landing should not be less than the width of stair",
+        "B": "Winders should not be avoided as far as possible",
+        "C": "The slope of stair should never exceed 40° and should not be flatter than 25°",
+        "D": "The maximum number of steps in a flight is 12"
+      }
+    },
+    {
+      "q_no": 49,
+      "question": "Statement I: Shoring is the construction of a permanent structure to support an unsafe structure.\nStatement II: The method of underpinning helps to strengthen the foundation of an existing building or any other infrastructure.\nOut of following, which option is correct?",
+      "options": {
+        "A": "Statement I and Statement II are True",
+        "B": "Statement I is False and Statement II is True",
+        "C": "Statement I is True and Statement II is False",
+        "D": "Statement I and Statement II are False"
+      }
+    },
+    {
+      "q_no": 50,
+      "question": "Match the following:\nList-I: I. Flush Pointing, II. Recessed Pointing, III. Struck Pointing, IV. Weathered Pointing\nList-II: i. This is made by making a projection in the form of V-shape, ii. The face of the pointing is kept inclined, with its upper edge pressed inside the face by 10 mm, iii. Mortar is pressed hard in the raked joints, iv. Mortar is pressing back by 5 mm or more from the edges",
+      "options": {
+        "A": "I-i, II-ii, III-iv, IV-iii",
+        "B": "I-ii, II-iii, III-i, IV-iv",
+        "C": "I-iv, II-i, III-iii, IV-ii",
+        "D": "I-iii, II-iv, III-ii, IV-i"
+      }
+    },
+    {
+      "q_no": 51,
+      "question": "Maximum bending moment developed in the given beam of span 4 m with UDL of 20 kN/m is",
+      "options": {
+        "A": "20 kNm",
+        "B": "40 kNm",
+        "C": "80 kNm",
+        "D": "100 kNm"
+      }
+    },
+    {
+      "q_no": 52,
+      "question": "Find the centroid of laminae shown in figure (T-section: flange 100 mm wide × 20 mm thick, web 10 mm wide × 50 mm tall)",
+      "options": {
+        "A": "(50 mm, 45 mm)",
+        "B": "(50 mm, 35 mm)",
+        "C": "(50 mm, 17 mm)",
+        "D": "(50 mm, 27 mm)"
+      }
+    },
+    {
+      "q_no": 53,
+      "question": "Statement I: The force of resistance offered by a body against the deformation is called stress.\nStatement II: Compressive stress is the resistance offered by a section of a member against an increase in length.\nOut of following, which option is correct?",
+      "options": {
+        "A": "Statement I and Statement II are True",
+        "B": "Statement I and Statement II are False",
+        "C": "Statement I is False and Statement II is True",
+        "D": "Statement I is True and Statement II is False"
+      }
+    },
+    {
+      "q_no": 54,
+      "question": "A wooden tie is 75 mm wide, 150 mm deep and 1.50 m long. It is subjected to an axial pull of 45000 N. The stretch of the member is found to be 0.6380 m. Find the stress developed in the member.",
+      "options": {
+        "A": "0.25 N/mm²",
+        "B": "2 N/mm²",
+        "C": "4 N/mm²",
+        "D": "8 N/mm²"
+      }
+    },
+    {
+      "q_no": 55,
+      "question": "A 900 mm diameter pipe contains a fluid at a pressure of 2.5 N/mm². If the safe stress in tension is 100 N/mm², find the minimum thickness of pipe.",
+      "options": {
+        "A": "5.25 mm",
+        "B": "10 mm",
+        "C": "4 mm",
+        "D": "11.25 mm"
+      }
+    },
+    {
+      "q_no": 56,
+      "question": "Statement I: Fibres in the neutral layer of a beam under simple bending is always stressed.\nStatement II: The resultant pull or thrust on a transverse section of the beam under pure bending is zero.\nOut of following, which option is correct?",
+      "options": {
+        "A": "Statement I and Statement II are True",
+        "B": "Statement I is True and Statement II is False",
+        "C": "Statement I is False and Statement II is True",
+        "D": "Statement I and Statement II are False"
+      }
+    },
+    {
+      "q_no": 57,
+      "question": "Find the maximum shear stress of a rectangular beam 100 mm wide subjected to a maximum shear force of 50,000 N. The maximum shearing stress being 3 N/mm². Find the depth of beam.",
+      "options": {
+        "A": "100 mm",
+        "B": "150 mm",
+        "C": "200 mm",
+        "D": "250 mm"
+      }
+    },
+    {
+      "q_no": 58,
+      "question": "Find the section modulus of a rectangular section of 150 mm wide and 200 mm depth.",
+      "options": {
+        "A": "1,000,000",
+        "B": "100,000,000",
+        "C": "750,000",
+        "D": "56,250,000"
+      }
+    },
+    {
+      "q_no": 59,
+      "question": "Find the maximum shear force in the given cantilever beam AB (with loads 50 kN at 3m from A and 60 kN at 6m from A).",
+      "options": {
+        "A": "110 kN",
+        "B": "10 kN",
+        "C": "50 kN",
+        "D": "60 kN"
+      }
+    },
+    {
+      "q_no": 60,
+      "question": "Which one of the following statements is wrong?",
+      "options": {
+        "A": "Stiffness: It is the property of a material due to which it is not capable of resisting deflection or elastic deformation under applied loads.",
+        "B": "Plasticity: The plasticity of a material is its ability to change some degree of permanent deformation without failure.",
+        "C": "Malleability: Malleability of a material is its ability to be flattened into their sheets without creaking by hot or cold working.",
+        "D": "Ductility: Ductility is that property of a material, which enables it to draw out into thin wire. Mild steel is a ductile material."
+      }
+    },
+    {
+      "q_no": 61,
+      "question": "Form of precipitation in which frozen rain drops cooled to the ice stage while falling through air at sub-freezing temperature is termed as",
+      "options": {
+        "A": "Glaze",
+        "B": "Sleet",
+        "C": "Snow",
+        "D": "Hail"
+      }
+    },
+    {
+      "q_no": 62,
+      "question": "Ratio of mean supply to full supply of canal is called",
+      "options": {
+        "A": "Outlet factor",
+        "B": "Time factor",
+        "C": "Capacity factor",
+        "D": "Nominal duty"
+      }
+    },
+    {
+      "q_no": 63,
+      "question": "A crop which requires irrigation throughout the year is called",
+      "options": {
+        "A": "Wet crop",
+        "B": "Dry crop",
+        "C": "Garden crop",
+        "D": "Kharif crop"
+      }
+    },
+    {
+      "q_no": 64,
+      "question": "The type of irrigation in which no canals are constructed",
+      "options": {
+        "A": "Storage Irrigation",
+        "B": "Combined Irrigation",
+        "C": "Inundation Irrigation",
+        "D": "Direct Irrigation"
+      }
+    },
+    {
+      "q_no": 65,
+      "question": "Process of covering external material like fabric, stones etc. for reducing loss of soil moisture is called",
+      "options": {
+        "A": "Sewering",
+        "B": "Mulching",
+        "C": "Disdaining",
+        "D": "Covered irrigation"
+      }
+    },
+    {
+      "q_no": 66,
+      "question": "The line in a dam section below which there are positive hydrostatic pressure within the dam.",
+      "options": {
+        "A": "Seepage line",
+        "B": "Saturation line",
+        "C": "Phreatic line",
+        "D": "All of these"
+      }
+    },
+    {
+      "q_no": 67,
+      "question": "Which of the following statements regarding divide wall is/are correct?\ni. Divide wall incidentally serves one of the side walls of fish ladder.\nii. This structure prevents cross current and flow parallel to the weir.\niii. It provides a still pocket in front of canal head regulator.",
+      "options": {
+        "A": "i only",
+        "B": "ii and iii only",
+        "C": "i and iii only",
+        "D": "i, ii and iii"
+      }
+    },
+    {
+      "q_no": 68,
+      "question": "Kor depth of Sugarcane is",
+      "options": {
+        "A": "165 mm",
+        "B": "135 mm",
+        "C": "260 mm",
+        "D": "130 mm"
+      }
+    },
+    {
+      "q_no": 69,
+      "question": "The shape of regime channel as per Lacey's theory is",
+      "options": {
+        "A": "Semi ellipse",
+        "B": "Semi circular",
+        "C": "Trapezoidal",
+        "D": "Rectangular"
+      }
+    },
+    {
+      "q_no": 70,
+      "question": "The total area which can be economically irrigated from an irrigation system without considering the limitation of the quantity of water available",
+      "options": {
+        "A": "Culturable Command Area",
+        "B": "Gross Command Area",
+        "C": "Gross Cultivable Area",
+        "D": "Culturable Cultivable Area"
+      }
+    },
+    {
+      "q_no": 71,
+      "question": "_____ rollers are ideally suited for cohesive soils.",
+      "options": {
+        "A": "Sheep foot roller",
+        "B": "Vibratory roller",
+        "C": "Smooth wheeled roller",
+        "D": "Pneumatic roller"
+      }
+    },
+    {
+      "q_no": 72,
+      "question": "A cast in situ pile greater than ____________ diameter is generally termed as pier.",
+      "options": {
+        "A": "0.3 m",
+        "B": "0.4 m",
+        "C": "0.5 m",
+        "D": "0.6 m"
+      }
+    },
+    {
+      "q_no": 73,
+      "question": "The consolidation occurs after the expulsion of water from voids of soil is termed as",
+      "options": {
+        "A": "Initial consolidation",
+        "B": "Primary consolidation",
+        "C": "Secondary consolidation",
+        "D": "Preliminary consolidation"
+      }
+    },
+    {
+      "q_no": 74,
+      "question": "In primary classification of Unified Soil Classification system, the letter M represents",
+      "options": {
+        "A": "Gravel",
+        "B": "Silt",
+        "C": "Clay",
+        "D": "Non-plastic fines"
+      }
+    },
+    {
+      "q_no": 75,
+      "question": "Clayey soil shows plasticity characteristics due to",
+      "options": {
+        "A": "Adsorbed water",
+        "B": "Free water",
+        "C": "Capillary water",
+        "D": "None of the above"
+      }
+    },
+    {
+      "q_no": 76,
+      "question": "Capillary rise in silt is usually between ___________ m.",
+      "options": {
+        "A": "0.30 to 1.00",
+        "B": "1.00 to 10.00",
+        "C": "10.00 to 30.00",
+        "D": "Greater than 30"
+      }
+    },
+    {
+      "q_no": 77,
+      "question": "For Darcy's law to be valid in soil, Reynolds number of flow through soil should be less than",
+      "options": {
+        "A": "500",
+        "B": "2000",
+        "C": "100",
+        "D": "1"
+      }
+    },
+    {
+      "q_no": 78,
+      "question": "For determination of plastic limit of a soil, it is air dried and sieved through sieve of size",
+      "options": {
+        "A": "2 mm",
+        "B": "75 micron",
+        "C": "425 micron",
+        "D": "100 micron"
+      }
+    },
+    {
+      "q_no": 79,
+      "question": "Which of the following instrument is used to determine specific gravity of liquids?",
+      "options": {
+        "A": "Pycnometer",
+        "B": "Hydrometer",
+        "C": "Hygrometer",
+        "D": "Pyrometer"
+      }
+    },
+    {
+      "q_no": 80,
+      "question": "In which of the following method in determination of water content, acetylene gas is employed?",
+      "options": {
+        "A": "Radiation method",
+        "B": "Sand bath method",
+        "C": "Alcohol method",
+        "D": "Calcium carbide method"
+      }
+    },
+    {
+      "q_no": 81,
+      "question": "Which among the following is the material best suited for railway ballast?",
+      "options": {
+        "A": "Sand",
+        "B": "Broken stone",
+        "C": "Moorum",
+        "D": "Kankar"
+      }
+    },
+    {
+      "q_no": 82,
+      "question": "Railway yards in which wagons are pushed upto summit by engine and allowed to gravitate down the slope is known as",
+      "options": {
+        "A": "Flat yard",
+        "B": "Hump yard",
+        "C": "Gravitational yard",
+        "D": "Locomotive yard"
+      }
+    },
+    {
+      "q_no": 83,
+      "question": "Which of the following is not used as material for tunnel lining?",
+      "options": {
+        "A": "Stone",
+        "B": "Brick",
+        "C": "Cast iron",
+        "D": "Cement mortar"
+      }
+    },
+    {
+      "q_no": 84,
+      "question": "Consider the following statements regarding flexible pavement.\ni. Strength of subgrade soil influences design thickness.\nii. Flexible pavement resists load because of its flexural strength.\niii. Flexible pavement undergoes deformation under loading.\niv. Maximum intensity of stresses occurs in top layer of pavement.\nWhich among the above statements is/are true?",
+      "options": {
+        "A": "i, ii and iii only",
+        "B": "ii, iii and iv only",
+        "C": "i, iii and iv only",
+        "D": "All are correct"
+      }
+    },
+    {
+      "q_no": 85,
+      "question": "As per IRC, minimum length of overtaking zone should be ________ (OSD stands for Overtaking Sight Distance)",
+      "options": {
+        "A": "2 × OSD",
+        "B": "3 × OSD",
+        "C": "4 × OSD",
+        "D": "5 × OSD"
+      }
+    },
+    {
+      "q_no": 86,
+      "question": "Which among the following are the reasons for extra widening of carriage way on horizontal circular curves?\ni. To account for off tracking of vehicles at curve.\nii. Psychological reason for driver.\niii. For aesthetic appearance.\niv. For providing overtaking zone in curves.",
+      "options": {
+        "A": "All the above",
+        "B": "i, ii and iii only",
+        "C": "i, ii and iv only",
+        "D": "i and ii only"
+      }
+    },
+    {
+      "q_no": 87,
+      "question": "Low viscosity bitumen applied over a granular base for laying bituminous mix over it is known as",
+      "options": {
+        "A": "Prime coat",
+        "B": "Tack coat",
+        "C": "Seal coat",
+        "D": "Base coat"
+      }
+    },
+    {
+      "q_no": 88,
+      "question": "Space for servicing, overhauling and repairing of aircraft is called",
+      "options": {
+        "A": "Taxiway",
+        "B": "Apron",
+        "C": "Hangar",
+        "D": "Gate area"
+      }
+    },
+    {
+      "q_no": 89,
+      "question": "Percentage of time during which the use of runway system is not restricted because of an excessive cross wind component is known as",
+      "options": {
+        "A": "Calm period",
+        "B": "Usability factor",
+        "C": "Cross wind period",
+        "D": "Usable period"
+      }
+    },
+    {
+      "q_no": 90,
+      "question": "In bridges, component that transfer load from superstructure to substructure is",
+      "options": {
+        "A": "Braces",
+        "B": "Bearing",
+        "C": "Pier",
+        "D": "Deck slab"
+      }
+    },
+    {
+      "q_no": 91,
+      "question": "Application of excess chlorine usually when there is epidemic is known as",
+      "options": {
+        "A": "Double chlorination",
+        "B": "Breakpoint chlorination",
+        "C": "Super chlorination",
+        "D": "Post chlorination"
+      }
+    },
+    {
+      "q_no": 92,
+      "question": "Hardness due to presence of sulphates, chlorides and nitrates of calcium and magnesium in water is known as",
+      "options": {
+        "A": "Temporary hardness",
+        "B": "Permanent hardness",
+        "C": "Carbonate hardness",
+        "D": "Total hardness"
+      }
+    },
+    {
+      "q_no": 93,
+      "question": "Which of the following statement/statements is/are correct about gravity type rapid sand filters?\ni. Cleaning is by agitation and backwashing.\nii. Period of cleaning is 2 to 3 months.\niii. Less efficient in removal of bacteria compared to slow sand filters.\niv. Schmutzdecke layer formed around the filter media plays crucial role in filtration.",
+      "options": {
+        "A": "i and ii only",
+        "B": "i and iii only",
+        "C": "i and iv only",
+        "D": "i only"
+      }
+    },
+    {
+      "q_no": 94,
+      "question": "Chamber constructed in sewer line for maintenance, inspection and cleaning is known as",
+      "options": {
+        "A": "Manhole",
+        "B": "Cleanouts",
+        "C": "Catch basin",
+        "D": "Flushing tank"
+      }
+    },
+    {
+      "q_no": 95,
+      "question": "Which of the following is not a biological treatment method for sewage?",
+      "options": {
+        "A": "Trickling filters",
+        "B": "Activated sludge process",
+        "C": "Grit chamber",
+        "D": "Aerated lagoons"
+      }
+    },
+    {
+      "q_no": 96,
+      "question": "Which of the following pipe appurtenance is used to prevent flow of water in backward direction?",
+      "options": {
+        "A": "Sluice valve",
+        "B": "Relief valve",
+        "C": "Reflux valve",
+        "D": "Scour valve"
+      }
+    },
+    {
+      "q_no": 97,
+      "question": "Sewerage system in which both sewage and storm water taken into a single sewer is known as",
+      "options": {
+        "A": "Separate system",
+        "B": "Combined system",
+        "C": "Partially separate system",
+        "D": "Partially combined system"
+      }
+    },
+    {
+      "q_no": 98,
+      "question": "Match the Column I and Column II:\nColumn-I: a. Dead end system, b. Grid iron system, c. Ring system, d. Radial system\nColumn-II: i. Distribution reservoirs at centers of different zones, ii. Mains provided around the periphery of distribution area, iii. No free circulation of water, iv. Longer length pipe required",
+      "options": {
+        "A": "a-iii, b-ii, c-i, d-iv",
+        "B": "a-iv, b-iii, c-ii, d-iv",
+        "C": "a-iii, b-iv, c-ii, d-i",
+        "D": "a-iv, b-ii, c-iii, d-i"
+      }
+    },
+    {
+      "q_no": 99,
+      "question": "Which of the following statement is not true about septic tank?\nI. Sedimentation tank with provision of storage and digestion of sludge.\nII. Digestion of sludge is done by aerobic bacteria inside the tank.\nIII. Periodic cleaning of septic tank is required as accumulation of sludge can decrease capacity of tank.\nIV. Effluent from septic tank can be taken to soak pit for disposal.",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "III only",
+        "D": "IV only"
+      }
+    },
+    {
+      "q_no": 100,
+      "question": "Which of the following is not a method of aeration adopted for treatment of raw water?",
+      "options": {
+        "A": "Air diffusion",
+        "B": "Cascades",
+        "C": "Adding air entraining agents",
+        "D": "Spray nozzles"
+      }
+    }
+  ]
+}
