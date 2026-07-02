@@ -11,7 +11,10 @@
   <!-- HEADER -->
   <header>
     <div class="header-inner">
-      <h1>📐 Civil Engineering Q-Bank</h1>
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <button id="sidebar-toggle" title="Toggle sidebar">☰</button>
+        <h1>📐 Civil Engineering Q-Bank</h1>
+      </div>
       <div class="header-meta">
         <span id="progress-label">0 / 0 answered</span>
         <button id="clear-btn" title="Clear all saved answers">🗑 Clear Progress</button>
@@ -24,6 +27,11 @@
     <div class="sidebar-title">Subjects</div>
     <ul id="subject-list"></ul>
   </aside>
+
+  <!-- SIDEBAR RESIZER -->
+  <div id="sidebar-resizer" class="resizer" title="Drag to resize, double-click to toggle">
+    <div class="resizer-handle"></div>
+  </div>
 
   <!-- MAIN AREA -->
   <main id="main">
