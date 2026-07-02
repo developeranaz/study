@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Civil Engineering Question Bank</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="header-inner">
+      <h1>📐 Civil Engineering Q-Bank</h1>
+      <div class="header-meta">
+        <span id="progress-label">0 / 0 answered</span>
+        <button id="clear-btn" title="Clear all saved answers">🗑 Clear Progress</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- SIDEBAR -->
+  <aside id="sidebar">
+    <div class="sidebar-title">Subjects</div>
+    <ul id="subject-list"></ul>
+  </aside>
+
+  <!-- MAIN AREA -->
+  <main id="main">
+    <!-- Subject header shown above question list -->
+    <div id="subject-header" class="subject-header hidden">
+      <div class="subject-header-left">
+        <h2 id="subject-title"></h2>
+        <span id="subject-count"></span>
+      </div>
+      <div class="subject-progress-bar-wrap">
+        <div class="subject-progress-bar" id="subject-progress-bar"></div>
+      </div>
+      <span id="subject-progress-label"></span>
+    </div>
+
+    <!-- Question list renders here -->
+    <div id="question-list"></div>
+
+    <!-- Landing/empty state -->
+    <div id="landing">
+      <div class="landing-icon">📖</div>
+      <h2>Select a subject to begin</h2>
+      <p>Your answers are saved automatically in cookies.<br>Progress survives tab closes and browser restarts.</p>
+      <div id="overall-stats"></div>
+    </div>
+  </main>
+
+  <!-- TOAST NOTIFICATION -->
+  <div id="toast"></div>
+
+  <!-- CLEAR CONFIRM MODAL -->
+  <div id="modal-overlay" class="hidden">
+    <div class="modal">
+      <h3>Clear all progress?</h3>
+      <p>This will erase all saved answers across all subjects.</p>
+      <div class="modal-btns">
+        <button id="modal-cancel">Cancel</button>
+        <button id="modal-confirm">Yes, clear it</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
