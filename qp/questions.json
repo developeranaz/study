@@ -92,7 +92,7 @@
     },
     {
       "question_number": 14,
-      "question": "If n^{2} is the number of sides, then the total sum of the exterior angle in a closed traverse is",
+      "question": "If $n^{2}$ is the number of sides, then the total sum of the exterior angle in a closed traverse is",
       "options": {
         "A": "$ (n+2)\\times90 $",
         "B": "$ (2n-4)\\times90 $",

@@ -98,6 +98,7 @@ const progressLabel    = document.getElementById('progress-label');
 const overallStats     = document.getElementById('overall-stats');
 const toastEl          = document.getElementById('toast');
 const clearBtn         = document.getElementById('clear-btn');
+const exportBtn        = document.getElementById('export-btn');
 const modalOverlay     = document.getElementById('modal-overlay');
 const modalCancel      = document.getElementById('modal-cancel');
 const modalConfirm     = document.getElementById('modal-confirm');
@@ -161,7 +162,16 @@ function totalQuestions() {
 
 // ── Header progress ────────────────────────────────────────────
 function updateGlobalProgress() {
-  progressLabel.textContent = `${totalAnswered()} / ${totalQuestions()} answered`;
+  const answered = totalAnswered();
+  progressLabel.textContent = `${answered} / ${totalQuestions()} answered`;
+
+  if (exportBtn) {
+    if (answered > 0) {
+      exportBtn.classList.remove('hidden');
+    } else {
+      exportBtn.classList.add('hidden');
+    }
+  }
 }
 
 // ── Load subject ───────────────────────────────────────────────
@@ -227,6 +237,19 @@ function renderQuestions(subj) {
 
     questionList.appendChild(card);
   });
+
+  // Render LaTeX math using KaTeX if available
+  if (typeof renderMathInElement === 'function') {
+    renderMathInElement(questionList, {
+      delimiters: [
+        { left: '$$', right: '$$', display: true },
+        { left: '$', right: '$', display: false },
+        { left: '\\(', right: '\\)', display: false },
+        { left: '\\[', right: '\\]', display: true }
+      ],
+      throwOnError: false
+    });
+  }
 
   // Delegate click events on option buttons
   questionList.addEventListener('click', onOptionClick, { once: false });
@@ -379,6 +402,49 @@ modalConfirm.addEventListener('click', () => {
 modalOverlay.addEventListener('click', e => {
   if (e.target === modalOverlay) modalOverlay.classList.add('hidden');
 });
+
+// ── Export answers to JSON ─────────────────────────────────────
+function exportAnswers() {
+  const exported = {};
+  for (const subj in QUESTIONS) {
+    exported[subj] = QUESTIONS[subj].map(q => {
+      const key = answerKey(subj, q.question_number);
+      const savedLetter = answers[key] || null;
+      
+      let optedOptionObj = {};
+      if (savedLetter && q.options && q.options[savedLetter]) {
+        optedOptionObj[savedLetter] = q.options[savedLetter];
+      } else {
+        optedOptionObj["X"] = "X";
+      }
+
+      // Return a new question object with the added opted_option
+      return {
+        question_number: q.question_number,
+        question: q.question,
+        options: { ...q.options },
+        opted_option: optedOptionObj
+      };
+    });
+  }
+
+  const jsonStr = JSON.stringify(exported, null, 2);
+  const blob = new Blob([jsonStr], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'civil_engineering_qbank_answers.json';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+  
+  showToast('Answers exported successfully 📤');
+}
+
+if (exportBtn) {
+  exportBtn.addEventListener('click', exportAnswers);
+}
 
 // ── Sidebar resizing & toggle logic ───────────────────────────
 function setSidebarWidth(width) {

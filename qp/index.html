@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Civil Engineering Question Bank</title>
   <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css" />
 </head>
 <body>
 
@@ -24,8 +25,13 @@
 
   <!-- SIDEBAR -->
   <aside id="sidebar">
-    <div class="sidebar-title">Subjects</div>
-    <ul id="subject-list"></ul>
+    <div class="sidebar-content">
+      <div class="sidebar-title">Subjects</div>
+      <ul id="subject-list"></ul>
+    </div>
+    <div class="sidebar-footer">
+      <button id="export-btn" class="hidden" title="Export all questions with your answers to JSON">📤 Export Answers</button>
+    </div>
   </aside>
 
   <!-- SIDEBAR RESIZER -->
@@ -74,6 +80,10 @@
     </div>
   </div>
 
+  <!-- KaTeX JavaScript -->
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+  <!-- Auto-render Extension -->
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

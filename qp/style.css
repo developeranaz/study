@@ -76,6 +76,8 @@ header h1 {
 }
 #clear-btn:hover { background: #c0392b; border-color: #c0392b; color: #fff; }
 
+
+
 /* ===== SIDEBAR ===== */
 #sidebar-toggle {
   background: transparent;
@@ -107,10 +109,49 @@ header h1 {
   bottom: 0;
   width: var(--sidebar-w);
   background: var(--sidebar-bg);
-  overflow-y: auto;
   z-index: 50;
-  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
   transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.sidebar-content {
+  flex: 1;
+  overflow-y: auto;
+  padding-bottom: 10px;
+}
+
+.sidebar-footer {
+  padding: 16px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  background: #151e2a;
+}
+
+#export-btn {
+  width: 100%;
+  background: var(--accent2);
+  border: none;
+  color: #fff;
+  border-radius: var(--radius);
+  padding: 11px 16px;
+  font-size: .84rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.15);
+  transition: background .2s, transform .1s;
+}
+#export-btn:hover {
+  background: #219653;
+}
+#export-btn:active {
+  transform: scale(0.98);
+}
+#export-btn.hidden {
+  display: none !important;
 }
 
 /* ===== SIDEBAR RESIZER ===== */
