@@ -1,0 +1,2 @@
+- Convention: fluid mechanics/hydraulics questions (no such category exists) -> Irrigation Engineering (closest bucket). First applied gid 107.
+- gid 126: answered with exam convention (noon sun TB taken 180) -> 30E; physically dubious in S hemisphere.

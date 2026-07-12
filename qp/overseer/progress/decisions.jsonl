@@ -1,0 +1,800 @@
+{"g": 0, "s": "SUR", "a": "B"}
+{"g": 1, "s": "ED", "a": "B"}
+{"g": 2, "s": "AC", "a": "A"}
+{"g": 3, "s": "SUR", "a": "B"}
+{"g": 4, "s": "SUR", "a": "D"}
+{"g": 5, "s": "SUR", "a": "B"}
+{"g": 6, "s": "SUR", "a": "A"}
+{"g": 7, "s": "SUR", "a": "B"}
+{"g": 8, "s": "SUR", "a": "A", "o": {"A": "$0^{\\circ}$", "B": "$45^{\\circ}$", "C": "$60^{\\circ}$", "D": "$90^{\\circ}$"}, "n": "removed junk '59/2019--' from option D"}
+{"g": 9, "s": "SUR", "a": "C", "q": "If $n$ is the number of sides, then the total sum of the exterior angles in a closed traverse is", "n": "OCR fix: n^2 -> n"}
+{"g": 10, "s": "SUR", "a": "B"}
+{"g": 11, "s": "SUR", "a": "B", "q": "If the bearing of a line is N $34^{\\circ}30'$ W, then the back bearing of that line will be", "o": {"A": "N $34^{\\circ}30'$ E", "B": "S $34^{\\circ}30'$ E", "C": "$315^{\\circ}30'$", "D": "S $34^{\\circ}30'$ W"}, "n": "unicode degrees -> LaTeX"}
+{"g": 12, "s": "SUR", "a": "D"}
+{"g": 13, "s": "SUR", "a": "B"}
+{"g": 14, "s": "SUR", "a": "B"}
+{"g": 15, "s": "SUR", "a": "D"}
+{"g": 16, "s": "SUR", "a": "C", "q": "In direct method of contouring, the process of locating points lying on a contour is known as", "n": "two merged questions; kept the one matching the given options"}
+{"g": 17, "s": "SUR", "a": "D"}
+{"g": 18, "s": "SUR", "a": "A", "n": "same concept as gid 3 (Simpson odd offsets)"}
+{"g": 19, "s": "SUR", "a": "A"}
+{"g": 20, "s": "SUR", "a": "C"}
+{"g": 21, "s": "SUR", "a": "B"}
+{"g": 22, "s": "SUR", "a": "A"}
+{"g": 23, "s": "SUR", "a": "B"}
+{"g": 24, "s": "SUR", "a": "A"}
+{"g": 25, "s": "SUR", "a": "C"}
+{"g": 26, "s": "SUR", "a": "D"}
+{"g": 27, "s": "SUR", "a": "C"}
+{"g": 28, "s": "SUR", "a": "C"}
+{"g": 29, "s": "SUR", "a": "A"}
+{"g": 30, "s": "SUR", "a": "C"}
+{"g": 31, "s": "SUR", "a": "A"}
+{"g": 32, "s": "SUR", "a": "B"}
+{"g": 33, "s": "SUR", "a": "C"}
+{"g": 34, "s": "SUR", "a": "D"}
+{"g": 35, "s": "SUR", "a": "A"}
+{"g": 36, "s": "SUR", "a": "B"}
+{"g": 37, "s": "SUR", "a": "B"}
+{"g": 38, "s": "SUR", "a": "B"}
+{"g": 39, "s": "SUR", "a": "X", "n": "options (Traversing/Radiation/Resection/Intersection) do not match question about daily variation; unanswerable"}
+{"g": 40, "s": "SUR", "a": "B"}
+{"g": 41, "s": "SUR", "a": "D"}
+{"g": 42, "s": "SUR", "a": "A"}
+{"g": 43, "s": "SUR", "a": "D"}
+{"g": 44, "s": "SUR", "a": "B"}
+{"g": 45, "s": "SUR", "a": "B"}
+{"g": 46, "s": "SUR", "a": "D"}
+{"g": 47, "s": "SUR", "a": "A"}
+{"g": 48, "s": "SUR", "a": "C"}
+{"g": 49, "s": "SUR", "a": "C"}
+{"g": 50, "s": "SUR", "a": "A"}
+{"g": 51, "s": "SUR", "a": "X", "n": "garbled question; options (Planimeter/Metallic tape/...) unrelated"}
+{"g": 52, "s": "SUR", "a": "C", "n": "similar to gid 6"}
+{"g": 53, "s": "SUR", "a": "C"}
+{"g": 54, "s": "SUR", "a": "B"}
+{"g": 55, "s": "SUR", "a": "B"}
+{"g": 56, "s": "SUR", "a": "A"}
+{"g": 57, "s": "SUR", "a": "C"}
+{"g": 58, "s": "SUR", "a": "C"}
+{"g": 59, "s": "SUR", "a": "C"}
+{"g": 60, "s": "SUR", "a": "A"}
+{"g": 61, "s": "SUR", "a": "B"}
+{"g": 62, "s": "SUR", "a": "D", "q": "The bearings of lines OA and OB are $26^{\\circ}10'$ and $332^{\\circ}18'$. The value of the included angle BOA is:", "n": "typo fix 'inculd angle'"}
+{"g": 63, "s": "SUR", "a": "C"}
+{"g": 64, "s": "SUR", "a": "B"}
+{"g": 65, "s": "SUR", "a": "A"}
+{"g": 66, "s": "SUR", "a": "C"}
+{"g": 67, "s": "SUR", "a": "A"}
+{"g": 68, "s": "SUR", "a": "A", "n": "distractors B-D are corrupted text from another question; A (20 sec, vernier theodolite) is the standard answer"}
+{"g": 69, "s": "SUR", "a": "C"}
+{"g": 70, "s": "SUR", "a": "B"}
+{"g": 71, "s": "SUR", "a": "D"}
+{"g": 72, "s": "SUR", "a": "B"}
+{"g": 73, "s": "SUR", "a": "D"}
+{"g": 74, "s": "SUR", "a": "C"}
+{"g": 75, "s": "SUR", "a": "X", "n": "options unrelated to question (dip at poles); unanswerable"}
+{"g": 76, "s": "SUR", "a": "A"}
+{"g": 77, "s": "SUR", "a": "D", "q": "In an open traverse ABC, if the fore bearing of the line AB is $240^{\\circ}30'$ and the included angle at B measured in clockwise direction is $120^{\\circ}15'$, the bearing of the line BC will be:", "n": "typo fix 'AR'->'AB'"}
+{"g": 78, "s": "SUR", "a": "B", "n": "same concept as gids 3, 18"}
+{"g": 79, "s": "SUR", "a": "C", "n": "same concept as gid 24"}
+{"g": 80, "s": "SUR", "a": "B"}
+{"g": 81, "s": "SUR", "a": "B"}
+{"g": 82, "s": "ED", "a": "X", "n": "top view above front view = THIRD angle projection, which is not among options; options incoherent"}
+{"g": 83, "s": "SUR", "a": "C"}
+{"g": 84, "s": "SUR", "a": "A", "q": "If the length of a survey line is $l$ and the reduced bearing is $\\theta$, then the latitude of the line is:", "o": {"A": "$l \\cos \\theta$", "B": "$l \\sin \\theta$", "C": "$l \\cot \\theta$", "D": "$l \\tan \\theta$"}, "n": "bare \\theta wrapped in $; junk '72/2019 [P.T.O.]' removed from option D"}
+{"g": 85, "s": "SUR", "a": "C"}
+{"g": 86, "s": "SUR", "a": "C", "o": {"A": "$0.00785 D^{2}$", "B": "$0.0785 D^{2}$", "C": "$0.0112 D^{2}$", "D": "$0.0673 D^{2}$"}, "n": "options had unclosed $ and lost D^2; reconstructed standard values (D in km, result m)"}
+{"g": 87, "s": "SUR", "a": "A"}
+{"g": 88, "s": "SUR", "a": "A"}
+{"g": 89, "s": "SUR", "a": "A"}
+{"g": 90, "s": "SUR", "a": "D"}
+{"g": 91, "s": "SUR", "a": "A"}
+{"g": 92, "s": "SUR", "a": "B"}
+{"g": 93, "s": "SUR", "a": "C"}
+{"g": 94, "s": "SUR", "a": "C", "n": "same concept as gid 53"}
+{"g": 95, "s": "SUR", "a": "A"}
+{"g": 96, "s": "SUR", "a": "D", "q": "The number of horizontal cross wires in a stadia diaphragm is:", "n": "typo fix 'study a diaphragm'->'stadia diaphragm'"}
+{"g": 97, "s": "SUR", "a": "D"}
+{"g": 98, "s": "SUR", "a": "D"}
+{"g": 99, "s": "SUR", "a": "A", "n": "duplicate of gid 27"}
+{"g": 100, "s": "SUR", "a": "D"}
+{"g": 101, "s": "SUR", "a": "A"}
+{"g": 102, "s": "SUR", "a": "D"}
+{"g": 103, "s": "SUR", "a": "A", "n": "same concept as gids 24, 79"}
+{"g": 104, "s": "SUR", "a": "D"}
+{"g": 105, "s": "SUR", "a": "A"}
+{"g": 106, "s": "SUR", "a": "D"}
+{"g": 107, "s": "IE", "a": "B", "n": "fluid mechanics (TEL vs HGL) -> IE bucket"}
+{"g": 108, "s": "SUR", "a": "A", "n": "same concept as gid 8"}
+{"g": 109, "s": "SUR", "a": "C"}
+{"g": 110, "s": "SUR", "a": "A"}
+{"g": 111, "s": "SUR", "a": "D", "n": "duplicate of gids 27, 99"}
+{"g": 112, "s": "SUR", "a": "D", "n": "cumulative error is proportional to L, not L^2; 'None of these' is the only defensible option; question fragmentary"}
+{"g": 113, "s": "SUR", "a": "C"}
+{"g": 114, "s": "SUR", "a": "B"}
+{"g": 115, "s": "SUR", "a": "B", "q": "The following are the bearings of the lines AB and AC: AB = N $15^{\\circ}15'$ E, AC = N $87^{\\circ}10'$ E. Calculate the angle BAC.", "n": "plain 'N15 15E' -> LaTeX bearings"}
+{"g": 116, "s": "SUR", "a": "B"}
+{"g": 117, "s": "SUR", "a": "B"}
+{"g": 118, "s": "ED", "a": "C"}
+{"g": 119, "s": "SUR", "a": "C"}
+{"g": 120, "s": "SUR", "a": "A"}
+{"g": 121, "s": "SUR", "a": "D"}
+{"g": 122, "s": "SUR", "a": "B"}
+{"g": 123, "s": "SUR", "a": "A", "o": {"A": "$29^{\\circ}16'00''$", "B": "$59^{\\circ}44'00''$", "C": "$150^{\\circ}44'00''$", "D": "$318^{\\circ}16'00''$"}, "n": "junk '-6' removed from option D"}
+{"g": 124, "s": "SUR", "a": "A"}
+{"g": 125, "s": "SUR", "a": "A", "n": "duplicate of gid 93"}
+{"g": 126, "s": "SUR", "a": "B", "n": "exam-convention answer (180-150=30E); see notes"}
+{"g": 127, "s": "SUR", "a": "C", "n": "duplicate of gids 27, 99, 111"}
+{"g": 128, "s": "SUR", "a": "C", "n": "standard value 19 years; 20 is nearest option"}
+{"g": 129, "s": "SUR", "a": "A"}
+{"g": 130, "s": "ED", "a": "B"}
+{"g": 131, "s": "GT", "a": "C"}
+{"g": 132, "s": "SUR", "a": "A", "o": {"A": "Geological survey", "B": "Mine survey", "C": "Topographical survey", "D": "Geodetic surveying"}, "n": "junk '-9' removed from option D"}
+{"g": 133, "s": "SUR", "a": "A"}
+{"g": 134, "s": "SUR", "a": "B"}
+{"g": 135, "s": "SUR", "a": "C"}
+{"g": 136, "s": "SUR", "a": "B", "n": "21 active (of 24 nominal) per classic texts"}
+{"g": 137, "s": "AC", "a": "C"}
+{"g": 138, "s": "IE", "a": "A"}
+{"g": 139, "s": "SUR", "a": "A", "n": "same concept as gids 10, 91"}
+{"g": 140, "s": "SUR", "a": "C", "n": "same concept as gids 90, 117"}
+{"g": 141, "s": "SUR", "a": "C", "n": "same concept as gids 89, 70"}
+{"g": 142, "s": "SUR", "a": "A", "n": "same concept as gid 135"}
+{"g": 143, "s": "SUR", "a": "C", "n": "same concept as gid 49"}
+{"g": 144, "s": "SUR", "a": "C", "o": {"A": "$0.0785 D^{2}$", "B": "$0.0673 D^{2}$", "C": "$0.0112 D^{2}$", "D": "$0.00785 D^{2}$"}, "n": "option D was orphan '$^{2}$'; reconstructed standard coefficient set; same concept as gid 86"}
+{"g": 145, "s": "GT", "a": "A"}
+{"g": 146, "s": "SUR", "a": "C"}
+{"g": 147, "s": "SUR", "a": "A", "o": {"A": "635.99 m", "B": "636.10 m", "C": "636.20 m", "D": "634.99 m"}, "n": "junk '11.' removed from option D"}
+{"g": 148, "s": "SUR", "a": "A"}
+{"g": 149, "s": "SUR", "a": "B"}
+{"g": 150, "s": "SUR", "a": "C"}
+{"g": 151, "s": "SUR", "a": "A"}
+{"g": 152, "s": "SUR", "a": "A", "o": {"A": "$E = \\pm 96\\sqrt{k}$", "B": "$E = \\pm 64\\sqrt{k}$", "C": "$E = \\pm 36\\sqrt{k}$", "D": "$E = \\pm 24\\sqrt{k}$"}, "n": "junk '12.' removed from option D; rough levelling ~ largest tolerance"}
+{"g": 153, "s": "SUR", "a": "C"}
+{"g": 154, "s": "SUR", "a": "D", "n": "same concept as gid 20"}
+{"g": 155, "s": "SUR", "a": "A"}
+{"g": 156, "s": "ED", "a": "B"}
+{"g": 157, "s": "CT", "a": "B", "o": {"A": "cornice", "B": "corbel", "C": "coping", "D": "string course"}, "n": "junk '59/2019-4' removed from option D"}
+{"g": 158, "s": "EST", "a": "B", "o": {"A": "2", "B": "2¼", "C": "2½", "D": "3"}, "n": "options B,C were both 2½ (corrupt); reconstructed B as 2¼ = standard coefficient for panelled door both faces (Dutta)"}
+{"g": 159, "s": "BM", "a": "B"}
+{"g": 160, "s": "BM", "a": "D"}
+{"g": 161, "s": "BM", "a": "A", "o": {"A": "7 days", "B": "14 days", "C": "3 days", "D": "None of the above"}, "n": "junk '01.' removed from option D"}
+{"g": 162, "s": "ED", "a": "C"}
+{"g": 163, "s": "BM", "a": "A"}
+{"g": 164, "s": "BM", "a": "D"}
+{"g": 165, "s": "BM", "a": "A"}
+{"g": 166, "s": "BM", "a": "B"}
+{"g": 167, "s": "CT", "a": "B"}
+{"g": 168, "s": "EST", "a": "C"}
+{"g": 169, "s": "EST", "a": "A", "q": "The estimated quantity of cement (in bags) required in cement mortar (1:6) per cubic metre will be", "n": "clarified unit = bags (5.5 bags/m3 standard)"}
+{"g": 170, "s": "IE", "a": "B"}
+{"g": 171, "s": "BM", "a": "C"}
+{"g": 172, "s": "BM", "a": "A"}
+{"g": 173, "s": "CT", "a": "C", "n": "NBC occupancy: Mercantile = Group F; option A was blank 'Group-'"}
+{"g": 174, "s": "BM", "a": "C"}
+{"g": 175, "s": "BM", "a": "A"}
+{"g": 176, "s": "BM", "a": "D"}
+{"g": 177, "s": "SOM", "a": "C"}
+{"g": 178, "s": "OTH", "a": "C", "o": {"A": "ROM", "B": "PROM", "C": "RAM", "D": "EPROM"}, "n": "computer question; option C 'R' reconstructed as RAM (volatile)"}
+{"g": 179, "s": "EST", "a": "A", "n": "walls only: 2(8+6)x3 = 84 m2 x Rs10 = Rs 840"}
+{"g": 180, "s": "EST", "a": "B"}
+{"g": 181, "s": "EST", "a": "X", "n": "options corrupt (A=C='3', units lost); actual: brickwork 3 m3, plastering 30 m2"}
+{"g": 182, "s": "BM", "a": "D"}
+{"g": 183, "s": "TE", "a": "A"}
+{"g": 184, "s": "TE", "a": "X", "n": "options corrupt (stray degree values); paving bitumen softening point ~35-70 C not represented"}
+{"g": 185, "s": "EM", "a": "C"}
+{"g": 186, "s": "BM", "a": "A"}
+{"g": 187, "s": "BM", "a": "A"}
+{"g": 188, "s": "BM", "a": "A", "o": {"A": "P.C.C.", "B": "R.C.C.", "C": "Prestressed concrete", "D": "R.M.C."}, "n": "options corrupt ('P.','R.','72/2019 junk','R.M.'); reconstructed standard abbreviations, answer PCC"}
+{"g": 189, "s": "EST", "a": "A"}
+{"g": 190, "s": "EST", "a": "B"}
+{"g": 191, "s": "BM", "a": "A"}
+{"g": 192, "s": "EST", "a": "X", "n": "question fragment about units of measurement; options are site-area percentages - unrelated"}
+{"g": 193, "s": "EST", "a": "B"}
+{"g": 194, "s": "CT", "a": "B"}
+{"g": 195, "s": "BM", "a": "C"}
+{"g": 196, "s": "BM", "a": "B", "o": {"A": "Setting", "B": "Hydraulicity", "C": "Hardening", "D": "Slaking"}, "n": "junk '-5-' removed from option D"}
+{"g": 197, "s": "BM", "a": "C", "n": "statements describe natural seasoning; advantages = i, ii"}
+{"g": 198, "s": "CT", "a": "D"}
+{"g": 199, "s": "BM", "a": "C"}
+{"g": 200, "s": "BM", "a": "D"}
+{"g": 201, "s": "CT", "a": "B"}
+{"g": 202, "s": "BM", "a": "A"}
+{"g": 203, "s": "BM", "a": "X", "n": "options corrupt (A,D are fragments about quarrying); correct value 50-60% not offered; same concept as gid 165"}
+{"g": 204, "s": "BM", "a": "B"}
+{"g": 205, "s": "BM", "a": "D", "n": "old IS269 spec: 3-day strength 11.5 N/mm2 (115 kg/cm2); unit typo mN/m2 kept as N/mm2 intent"}
+{"g": 206, "s": "BM", "a": "D"}
+{"g": 207, "s": "EST", "a": "C"}
+{"g": 208, "s": "BM", "a": "C"}
+{"g": 209, "s": "BM", "a": "B", "n": "duplicate of gid 166"}
+{"g": 210, "s": "BM", "a": "B"}
+{"g": 211, "s": "BM", "a": "D"}
+{"g": 212, "s": "BM", "a": "B", "n": "Bhainslana black marble, Jaipur district"}
+{"g": 213, "s": "BM", "a": "B"}
+{"g": 214, "s": "BM", "a": "D"}
+{"g": 215, "s": "BM", "a": "C", "o": {"A": "board", "B": "plank", "C": "plywood", "D": "batten"}, "n": "junk '141/2016 [P.T.O.]' removed from option D"}
+{"g": 216, "s": "BM", "a": "A"}
+{"g": 217, "s": "BM", "a": "B"}
+{"g": 218, "s": "BM", "a": "A"}
+{"g": 219, "s": "CT", "a": "A"}
+{"g": 220, "s": "BM", "a": "B", "n": "same concept as gid 199"}
+{"g": 221, "s": "CT", "a": "B"}
+{"g": 222, "s": "SOM", "a": "C"}
+{"g": 223, "s": "EE", "a": "D"}
+{"g": 224, "s": "EE", "a": "A"}
+{"g": 225, "s": "TE", "a": "C"}
+{"g": 226, "s": "SE", "a": "C", "n": "doubly reinforced = steel in BOTH zones; option C garbled ('either') but is the intended 'both tension and compression'"}
+{"g": 227, "s": "SE", "a": "C"}
+{"g": 228, "s": "SE", "a": "C", "o": {"A": "tensile stresses", "B": "compressive stresses", "C": "bond stresses", "D": "hoop stress"}, "n": "junk '-9' removed from option D"}
+{"g": 229, "s": "BM", "a": "D", "n": "same concept as gid 160"}
+{"g": 230, "s": "BM", "a": "B"}
+{"g": 231, "s": "TE", "a": "D"}
+{"g": 232, "s": "BM", "a": "A"}
+{"g": 233, "s": "TE", "a": "C"}
+{"g": 234, "s": "GT", "a": "D"}
+{"g": 235, "s": "CT", "a": "A", "n": "classic PWD table: coursed rubble in cement mortar ~90 t/m2"}
+{"g": 236, "s": "EST", "a": "A"}
+{"g": 237, "s": "BM", "a": "C"}
+{"g": 238, "s": "ED", "a": "A"}
+{"g": 239, "s": "SE", "a": "A"}
+{"g": 240, "s": "SE", "a": "B", "n": "per IS456-1978 limit (450mm); current code 300mm not offered"}
+{"g": 241, "s": "SE", "a": "B", "o": {"A": "1.50 times", "B": "1.05 times", "C": "1.15 times", "D": "1.10 times"}, "n": "junk '-7' removed from option D; question missing 'compared to' wording"}
+{"g": 242, "s": "TE", "a": "A"}
+{"g": 243, "s": "BM", "a": "B"}
+{"g": 244, "s": "EST", "a": "B", "q": "The expected out-turn of cement concrete 1:2:4 per mason per day is", "n": "typo 'out term' -> 'out-turn'"}
+{"g": 245, "s": "BM", "a": "X", "n": "question truncated mid-sentence and merged with fragment of next question; unanswerable"}
+{"g": 246, "s": "BM", "a": "X", "n": "all options are corrupted fragments with stray $ signs"}
+{"g": 247, "s": "BM", "a": "B"}
+{"g": 248, "s": "SE", "a": "A"}
+{"g": 249, "s": "EE", "a": "B"}
+{"g": 250, "s": "EST", "a": "X", "n": "'one unit' undefined; per m3 RCC 1:1.5:3 needs ~8 bags/395 kg - no option matches any standard unit"}
+{"g": 251, "s": "EST", "a": "C"}
+{"g": 252, "s": "BM", "a": "A"}
+{"g": 253, "s": "BM", "a": "B"}
+{"g": 254, "s": "BM", "a": "B", "o": {"A": "$50\\ kN/m^{3}$", "B": "$15\\ kN/m^{3}$", "C": "$500\\ kN/m^{3}$", "D": "$115\\ kN/m^{3}$"}, "n": "unit typo KN/mm3 -> kN/m3; heavy mortar bulk density > 1500 kg/m3"}
+{"g": 255, "s": "BM", "a": "A"}
+{"g": 256, "s": "CT", "a": "A"}
+{"g": 257, "s": "CT", "a": "A"}
+{"g": 258, "s": "CT", "a": "A"}
+{"g": 259, "s": "EST", "a": "B"}
+{"g": 260, "s": "UM", "a": "A", "o": {"A": "Kilogram", "B": "Kilometer", "C": "Kelvin", "D": "Millimetre"}, "n": "junk '12-' removed from option D"}
+{"g": 261, "s": "UM", "a": "B"}
+{"g": 262, "s": "TE", "a": "C"}
+{"g": 263, "s": "TE", "a": "C", "n": "beater packing needs 30-35 cm"}
+{"g": 264, "s": "EE", "a": "D", "o": {"A": "30 years", "B": "50 years", "C": "25 years", "D": "10 years"}, "n": "junk '15- 1.' removed from option D"}
+{"g": 265, "s": "BM", "a": "C"}
+{"g": 266, "s": "BM", "a": "A", "n": "duplicate of gid 217"}
+{"g": 267, "s": "BM", "a": "X", "n": "options B-D are admixture chemicals merged from another question; correct marine cement (PSC/SRC) not offered"}
+{"g": 268, "s": "BM", "a": "C"}
+{"g": 269, "s": "BM", "a": "B"}
+{"g": 270, "s": "EST", "a": "C"}
+{"g": 271, "s": "BM", "a": "B"}
+{"g": 272, "s": "BM", "a": "D", "n": "IS456-1978: M10-M40 = 7 grades"}
+{"g": 273, "s": "BM", "a": "B"}
+{"g": 274, "s": "EST", "a": "C"}
+{"g": 275, "s": "BM", "a": "A"}
+{"g": 276, "s": "BM", "a": "B", "n": "same concept as gid 186"}
+{"g": 277, "s": "BM", "a": "X", "n": "correct answer (spring wood + autumn wood) not offered; option D truncated"}
+{"g": 278, "s": "CT", "a": "A"}
+{"g": 279, "s": "BM", "a": "B", "o": {"A": "$900\\,^{\\circ}C$", "B": "$1400\\,^{\\circ}C$", "C": "$1700\\,^{\\circ}C$", "D": "None of the above"}, "n": "options had truncated LaTeX (unclosed \\mathrm); repaired"}
+{"g": 280, "s": "BM", "a": "D"}
+{"g": 281, "s": "BM", "a": "C", "n": "classic: 3.175 mm (1/8 in) screen sand for masonry work"}
+{"g": 282, "s": "SE", "a": "B"}
+{"g": 283, "s": "EST", "a": "C"}
+{"g": 284, "s": "EST", "a": "C"}
+{"g": 285, "s": "CT", "a": "C"}
+{"g": 286, "s": "CT", "a": "A"}
+{"g": 287, "s": "AC", "a": "X", "n": "question garbled ('limited for installation'); intent unclear"}
+{"g": 288, "s": "CT", "a": "A"}
+{"g": 289, "s": "CT", "a": "B", "q": "A stair turning through two right angles is known as:", "n": "question restated (answer was embedded in original text)"}
+{"g": 290, "s": "EST", "a": "C"}
+{"g": 291, "s": "CT", "a": "B"}
+{"g": 292, "s": "CT", "a": "C"}
+{"g": 293, "s": "CT", "a": "C"}
+{"g": 294, "s": "CT", "a": "B"}
+{"g": 295, "s": "CT", "a": "B"}
+{"g": 296, "s": "BM", "a": "X", "n": "options corrupt (stray '('); IS curing/testing temp 27±2 C not offered"}
+{"g": 297, "s": "CT", "a": "D"}
+{"g": 298, "s": "CT", "a": "A"}
+{"g": 299, "s": "CT", "a": "D", "n": "soffit = under SURFACE; intrados = inner curve (cf gid 293)"}
+{"g": 300, "s": "CT", "a": "A"}
+{"g": 301, "s": "CT", "a": "C", "o": {"A": "underpinning", "B": "scaffolding", "C": "shoring", "D": "none of these"}, "n": "junk '15- 1.' removed from option D"}
+{"g": 302, "s": "CT", "a": "A"}
+{"g": 303, "s": "CT", "a": "D"}
+{"g": 304, "s": "CT", "a": "B", "q": "The sloping surface used to provide an easy connection between floors is:", "n": "completed truncated sentence"}
+{"g": 305, "s": "CT", "a": "B", "o": {"A": "22.50 cm", "B": "25.00 cm", "C": "20.00 cm", "D": "30.00 cm"}, "n": "junk '15- 1.' removed from option D"}
+{"g": 306, "s": "CT", "a": "B"}
+{"g": 307, "s": "CT", "a": "C"}
+{"g": 308, "s": "CT", "a": "B"}
+{"g": 309, "s": "EST", "a": "D", "n": "same concept as gid 283 (coefficient 2x both sides)"}
+{"g": 310, "s": "EST", "a": "C", "o": {"A": "1 sq.m", "B": "Revised estimate", "C": "0.4 sq.m", "D": "0.7 sq.m"}, "n": "trailing fragment of next question removed from option D; option B is foreign text"}
+{"g": 311, "s": "BM", "a": "B", "n": "RCC without vibration: 80-150 mm slump"}
+{"g": 312, "s": "CT", "a": "C"}
+{"g": 313, "s": "CT", "a": "C"}
+{"g": 314, "s": "EST", "a": "A"}
+{"g": 315, "s": "CT", "a": "D"}
+{"g": 316, "s": "AC", "a": "B"}
+{"g": 317, "s": "CT", "a": "D"}
+{"g": 318, "s": "ED", "a": "C"}
+{"g": 319, "s": "ED", "a": "C"}
+{"g": 320, "s": "ED", "a": "D"}
+{"g": 321, "s": "ED", "a": "B"}
+{"g": 322, "s": "ED", "a": "A"}
+{"g": 323, "s": "ED", "a": "D", "o": {"A": "H", "B": "HB", "C": "3H", "D": "2H"}, "n": "options corrupt (A=B='H', superscript glitches); reconstructed standard pencil set; 2H for construction/dimension/centre/section lines"}
+{"g": 324, "s": "ED", "a": "B"}
+{"g": 325, "s": "SUR", "a": "B", "n": "map (small scale) vs plan (large scale) - surveying definition"}
+{"g": 326, "s": "ED", "a": "A"}
+{"g": 327, "s": "EST", "a": "B"}
+{"g": 328, "s": "ED", "a": "D"}
+{"g": 329, "s": "ED", "a": "B"}
+{"g": 330, "s": "ED", "a": "A"}
+{"g": 331, "s": "ED", "a": "B"}
+{"g": 332, "s": "ED", "a": "A"}
+{"g": 333, "s": "ED", "a": "A"}
+{"g": 334, "s": "ED", "a": "B"}
+{"g": 335, "s": "ED", "a": "A"}
+{"g": 336, "s": "ED", "a": "C"}
+{"g": 337, "s": "ED", "a": "B"}
+{"g": 338, "s": "TE", "a": "A"}
+{"g": 339, "s": "ED", "a": "D"}
+{"g": 340, "s": "ED", "a": "A", "o": {"A": "Isometric View", "B": "Isometric Projection", "C": "Oblique Projection", "D": "Perspective Projection"}, "n": "junk '1.' removed from option D"}
+{"g": 341, "s": "ED", "a": "B", "n": "IS 11664 method 1 fold: 297 x 190"}
+{"g": 342, "s": "ED", "a": "C", "n": "Type A lettering: height/14"}
+{"g": 343, "s": "ED", "a": "X", "n": "options are map scales, unrelated to T-square question (answer: horizontal lines)"}
+{"g": 344, "s": "ED", "a": "A"}
+{"g": 345, "s": "ED", "a": "D"}
+{"g": 346, "s": "ED", "a": "D"}
+{"g": 347, "s": "SOM", "a": "D"}
+{"g": 348, "s": "TE", "a": "A"}
+{"g": 349, "s": "CT", "a": "X", "n": "options are areas, unrelated to truss-brace question (answer: struts)"}
+{"g": 350, "s": "SOM", "a": "B"}
+{"g": 351, "s": "SE", "a": "D", "n": "same concept as gid 353"}
+{"g": 352, "s": "SOM", "a": "D", "o": {"A": "$\\frac{\\pi d^{4}}{12}$", "B": "$\\frac{\\pi d^{4}}{16}$", "C": "$\\frac{\\pi d^{4}}{24}$", "D": "$\\frac{\\pi d^{4}}{32}$"}, "n": "junk '-9' removed from option D; polar MOI = pi*d^4/32"}
+{"g": 353, "s": "SE", "a": "B", "n": "same concept as gid 351"}
+{"g": 354, "s": "SOM", "a": "C", "o": {"A": "$\\pi^{2}EI/L^{2}$", "B": "$\\pi^{2}EI/4L^{2}$", "C": "$4\\pi^{2}EI/L^{2}$", "D": "$2\\pi^{2}EI/L^{2}$"}, "n": "malformed 'pi 2EI' repaired to standard Euler cases"}
+{"g": 355, "s": "EE", "a": "X", "n": "match question: Column II items missing entirely; water distribution layouts topic"}
+{"g": 356, "s": "SE", "a": "C"}
+{"g": 357, "s": "EE", "a": "A"}
+{"g": 358, "s": "IE", "a": "A"}
+{"g": 359, "s": "EE", "a": "B"}
+{"g": 360, "s": "EE", "a": "B"}
+{"g": 361, "s": "EE", "a": "B"}
+{"g": 362, "s": "EE", "a": "A"}
+{"g": 363, "s": "EE", "a": "D", "n": "methane is chief gas but not offered; H2S is the intended option"}
+{"g": 364, "s": "EE", "a": "C"}
+{"g": 365, "s": "EE", "a": "D"}
+{"g": 366, "s": "EE", "a": "D"}
+{"g": 367, "s": "EE", "a": "C"}
+{"g": 368, "s": "EE", "a": "B", "n": "septic digestion is ANAEROBIC, so II is false"}
+{"g": 369, "s": "EE", "a": "D"}
+{"g": 370, "s": "EE", "a": "D"}
+{"g": 371, "s": "EE", "a": "C"}
+{"g": 372, "s": "CT", "a": "X", "n": "FSI = Floor Space Index; options are unrelated plan/line terms"}
+{"g": 373, "s": "CT", "a": "B"}
+{"g": 374, "s": "TE", "a": "D"}
+{"g": 375, "s": "TE", "a": "B"}
+{"g": 376, "s": "TE", "a": "A"}
+{"g": 377, "s": "TE", "a": "C"}
+{"g": 378, "s": "SUR", "a": "C", "n": "curve ranging: external distance E = mid-curve to PI"}
+{"g": 379, "s": "SUR", "a": "X", "n": "boning rods/sight rails set out gradients; options describe contour spacing - unrelated"}
+{"g": 380, "s": "TE", "a": "C"}
+{"g": 381, "s": "TE", "a": "D", "n": "same concept as gid 374"}
+{"g": 382, "s": "TE", "a": "D"}
+{"g": 383, "s": "TE", "a": "B"}
+{"g": 384, "s": "TE", "a": "B"}
+{"g": 385, "s": "TE", "a": "A"}
+{"g": 386, "s": "IE", "a": "C", "n": "poise = dynamic viscosity; fluid mechanics -> IE bucket"}
+{"g": 387, "s": "TE", "a": "A"}
+{"g": 388, "s": "TE", "a": "B", "o": {"A": "$2 \\times OSD$", "B": "$3 \\times OSD$", "C": "$4 \\times OSD$", "D": "$5 \\times OSD$"}, "n": "options truncated; reconstructed standard IRC multiples; minimum = 3xOSD"}
+{"g": 389, "s": "TE", "a": "C", "n": "same concept as gid 377"}
+{"g": 390, "s": "TE", "a": "D"}
+{"g": 391, "s": "TE", "a": "D"}
+{"g": 392, "s": "IE", "a": "D"}
+{"g": 393, "s": "TE", "a": "X", "n": "question is highway (overturning on curve = superelevation) but options are irrigation terms"}
+{"g": 394, "s": "IE", "a": "A"}
+{"g": 395, "s": "IE", "a": "X", "n": "groynes = river training works; options are hectare values - unrelated"}
+{"g": 396, "s": "IE", "a": "X", "n": "Ryve formula Q=C*A^(2/3); all options are corrupted LaTeX fragments"}
+{"g": 397, "s": "IE", "a": "A"}
+{"g": 398, "s": "IE", "a": "B"}
+{"g": 399, "s": "IE", "a": "A"}
+{"g": 400, "s": "IE", "a": "D"}
+{"g": 401, "s": "IE", "a": "B", "o": {"A": "Southern India", "B": "Northern India", "C": "Eastern India", "D": "Western India"}, "n": "junk '14-' removed from option D"}
+{"g": 402, "s": "IE", "a": "A"}
+{"g": 403, "s": "IE", "a": "C"}
+{"g": 404, "s": "IE", "a": "D"}
+{"g": 405, "s": "IE", "a": "D"}
+{"g": 406, "s": "IE", "a": "X", "n": "question = CCA definition; options are compaction rollers - unrelated"}
+{"g": 407, "s": "IE", "a": "B"}
+{"g": 408, "s": "IE", "a": "C", "o": {"A": "weir", "B": "barrage", "C": "silt excluder", "D": "silt extractor"}, "n": "junk '13-' removed from option D"}
+{"g": 409, "s": "IE", "a": "B"}
+{"g": 410, "s": "IE", "a": "A", "n": "question garbled but hyetograph = graphical representation of rainfall"}
+{"g": 411, "s": "IE", "a": "D"}
+{"g": 412, "s": "EST", "a": "B"}
+{"g": 413, "s": "EST", "a": "D", "o": {"A": "5% - 8%", "B": "20% - 30%", "C": "1% - 1½%", "D": "10% - 15%"}, "n": "option A was corrupt '1.'; replaced with plausible distractor; centage 10-15%"}
+{"g": 414, "s": "EST", "a": "D"}
+{"g": 415, "s": "EST", "a": "C"}
+{"g": 416, "s": "EST", "a": "C"}
+{"g": 417, "s": "EST", "a": "D"}
+{"g": 418, "s": "EST", "a": "B"}
+{"g": 419, "s": "EST", "a": "D", "n": "same concept as gid 430"}
+{"g": 420, "s": "EST", "a": "D", "q": "In an estimate, a certain amount in the form of contingencies of _____% to _____% of the estimated cost is provided.", "n": "stray LaTeX underline removed; sentence completed"}
+{"g": 421, "s": "EST", "a": "D"}
+{"g": 422, "s": "EST", "a": "C"}
+{"g": 423, "s": "EST", "a": "A", "o": {"A": "4 – 5%", "B": "10 – 15%", "C": "20%", "D": "20 – 30%"}, "n": "junk '-4-' removed from option D"}
+{"g": 424, "s": "EST", "a": "A"}
+{"g": 425, "s": "EST", "a": "D"}
+{"g": 426, "s": "EST", "a": "A", "o": {"A": "0.01 m²", "B": "0.02 m²", "C": "0.001 m²", "D": "0.0001 m²"}, "n": "junk '-8' removed; notation normalized"}
+{"g": 427, "s": "SOM", "a": "D", "n": "mild steel elongation 23% (IS 432)"}
+{"g": 428, "s": "CT", "a": "C", "o": {"A": "Plinth area", "B": "2.5 sq.m.", "C": "1.5 sq.m.", "D": "1.0 sq.m."}, "n": "trailing fragment of next question removed from option D"}
+{"g": 429, "s": "EST", "a": "X", "n": "answer should be 'analysis of rates' - not among options (valuation terms); trailing junk in option D"}
+{"g": 430, "s": "EST", "a": "A", "n": "same concept as gid 419"}
+{"g": 431, "s": "EST", "a": "C"}
+{"g": 432, "s": "EST", "a": "D"}
+{"g": 433, "s": "EST", "a": "A"}
+{"g": 434, "s": "EST", "a": "A"}
+{"g": 435, "s": "EM", "a": "X", "n": "question about retardation; options are numeric HP values - unrelated"}
+{"g": 436, "s": "UM", "a": "B"}
+{"g": 437, "s": "UM", "a": "X", "n": "options are bare numbers; unit of heat (kcal) not represented"}
+{"g": 438, "s": "OTH", "a": "X", "n": "Mo melts ~2620 C; no option correct"}
+{"g": 439, "s": "EM", "a": "B"}
+{"g": 440, "s": "SOM", "a": "A", "q": "$\\frac{\\text{Lateral strain}}{\\text{Linear strain}} =$", "n": "typo 'Lencer' fixed; proper LaTeX"}
+{"g": 441, "s": "EM", "a": "C"}
+{"g": 442, "s": "EM", "a": "B"}
+{"g": 443, "s": "EM", "a": "A"}
+{"g": 444, "s": "EM", "a": "B"}
+{"g": 445, "s": "IE", "a": "A"}
+{"g": 446, "s": "IE", "a": "D", "o": {"A": "for storage of water", "B": "to increase the velocity in a pipe line", "C": "as overflow valves", "D": "to guard against water hammer"}, "n": "junk '-7' removed from option D"}
+{"g": 447, "s": "CT", "a": "A"}
+{"g": 448, "s": "IE", "a": "A"}
+{"g": 449, "s": "IE", "a": "B", "o": {"A": "Velocity", "B": "Pressure", "C": "Temperature", "D": "Viscosity"}, "n": "junk '-7- ## 068/21' removed from option D"}
+{"g": 450, "s": "EM", "a": "B"}
+{"g": 451, "s": "IE", "a": "C"}
+{"g": 452, "s": "EM", "a": "A"}
+{"g": 453, "s": "UM", "a": "D", "o": {"A": "$10^{5}$", "B": "$10^{6}$", "C": "$10^{8}$", "D": "$10^{7}$"}, "n": "junk '1.' removed from option D"}
+{"g": 454, "s": "IE", "a": "A", "q": "The efficiency of power transmission through a pipe is (H = total head at inlet, $h_f$ = head loss due to friction in the pipe)", "o": {"A": "$\\frac{H-h_f}{H}$", "B": "$\\frac{H+h_f}{H}$", "C": "$\\frac{H}{H-h_f}$", "D": "$\\frac{H}{H+h_f}$"}, "n": "H was mislabelled 'specific weight'; hF typo normalized"}
+{"g": 455, "s": "UM", "a": "C"}
+{"g": 456, "s": "EM", "a": "C", "o": {"A": "Sliding friction", "B": "Solid friction", "C": "Static friction", "D": "Rolling friction"}, "n": "junk '15- # Total Marks...' removed from option D"}
+{"g": 457, "s": "EM", "a": "C"}
+{"g": 458, "s": "SUR", "a": "A"}
+{"g": 459, "s": "SUR", "a": "D"}
+{"g": 460, "s": "SUR", "a": "D"}
+{"g": 461, "s": "SOM", "a": "A"}
+{"g": 462, "s": "SOM", "a": "B"}
+{"g": 463, "s": "SOM", "a": "A"}
+{"g": 464, "s": "SUR", "a": "A", "o": {"A": "0 and 180", "B": "0 and 90", "C": "0 and 120", "D": "0 and 45"}, "n": "duplicate of gid 459; junk '141/2016 [P.T.O.]' removed from option D"}
+{"g": 465, "s": "SOM", "a": "B"}
+{"g": 466, "s": "SOM", "a": "A"}
+{"g": 467, "s": "SOM", "a": "A", "n": "cantilever: tension at top, compression at bottom"}
+{"g": 468, "s": "SOM", "a": "C"}
+{"g": 469, "s": "SOM", "a": "D"}
+{"g": 470, "s": "SE", "a": "A"}
+{"g": 471, "s": "GT", "a": "B"}
+{"g": 472, "s": "SOM", "a": "A", "o": {"A": "$wl^{4}/8EI$", "B": "$wl^{4}/3EI$", "C": "$wl^{4}/2EI$", "D": "$wl^{4}/4EI$"}, "n": "bare superscripts wrapped in $"}
+{"g": 473, "s": "TE", "a": "D", "n": "option B corrupt ('W'); rigid pavement resists tensile stresses"}
+{"g": 474, "s": "SOM", "a": "D", "n": "compressive stress resists DECREASE in length, so II false"}
+{"g": 475, "s": "SOM", "a": "C"}
+{"g": 476, "s": "SOM", "a": "D", "q": "A rectangular beam 100 mm wide is subjected to a maximum shear force of 50,000 N, the maximum shearing stress being 3 N/mm$^{2}$. Find the depth of the beam.", "n": "question had duplicated/garbled first sentence"}
+{"g": 477, "s": "SOM", "a": "A", "q": "Find the section modulus (in mm$^{3}$) of a rectangular section 150 mm wide and 200 mm deep.", "n": "unit clarified; Z = bd^2/6 = 1,000,000 mm3"}
+{"g": 478, "s": "SOM", "a": "X", "n": "question text almost entirely missing ('kN 60 kN')"}
+{"g": 479, "s": "SE", "a": "A"}
+{"g": 480, "s": "EM", "a": "D"}
+{"g": 481, "s": "IE", "a": "D"}
+{"g": 482, "s": "EST", "a": "C", "o": {"A": "$L + 2(0.6D)$", "B": "$L - 0.42D$", "C": "$L + 2(0.42D)$", "D": "$L - 2(0.42D)$"}, "n": "options had truncated LaTeX; reconstructed; crank extra length 0.42D per bend"}
+{"g": 483, "s": "SOM", "a": "D"}
+{"g": 484, "s": "SOM", "a": "B"}
+{"g": 485, "s": "GT", "a": "B"}
+{"g": 486, "s": "GT", "a": "A"}
+{"g": 487, "s": "GT", "a": "C", "n": "same concept as gid 494"}
+{"g": 488, "s": "GT", "a": "A"}
+{"g": 489, "s": "GT", "a": "B"}
+{"g": 490, "s": "EST", "a": "B", "o": {"A": "1.5 m", "B": "30 m", "C": "50 m", "D": "100 m"}, "n": "junk '-5-' removed from option D"}
+{"g": 491, "s": "GT", "a": "D"}
+{"g": 492, "s": "CT", "a": "B", "n": "shoring is TEMPORARY, so I false"}
+{"g": 493, "s": "GT", "a": "C", "n": "'after expulsion of water' = secondary consolidation"}
+{"g": 494, "s": "GT", "a": "B", "n": "same concept as gid 487"}
+{"g": 495, "s": "GT", "a": "B"}
+{"g": 496, "s": "UM", "a": "C"}
+{"g": 497, "s": "SUR", "a": "C"}
+{"g": 498, "s": "ED", "a": "B"}
+{"g": 499, "s": "UM", "a": "B"}
+{"g": 500, "s": "EST", "a": "X", "n": "all options truncated at '('; prismoidal V = h/6(A1+4Am+A2); A and D indistinguishable"}
+{"g": 501, "s": "EST", "a": "D"}
+{"g": 502, "s": "UM", "a": "D"}
+{"g": 503, "s": "UM", "a": "A", "q": "Find the area of a right-angled triangle whose base is 15 cm and hypotenuse is 21 cm.", "o": {"A": "110.18", "B": "119.65", "C": "128.40", "D": "168.70"}, "n": "typo 'hypothesis' fixed; junk '1.' removed from option D"}
+{"g": 504, "s": "UM", "a": "A"}
+{"g": 505, "s": "ED", "a": "X", "n": "section parallel to generator = parabola; options are circle parts - unrelated"}
+{"g": 506, "s": "ED", "a": "D"}
+{"g": 507, "s": "UM", "a": "A"}
+{"g": 508, "s": "UM", "a": "D"}
+{"g": 509, "s": "UM", "a": "B"}
+{"g": 510, "s": "IE", "a": "D", "n": "duplicate of gid 404"}
+{"g": 511, "s": "IE", "a": "B", "n": "D = 8.64B/delta = 8.64*150/1.5 = 864"}
+{"g": 512, "s": "EM", "a": "X", "n": "all options truncated LaTeX fragments"}
+{"g": 513, "s": "SUR", "a": "X", "n": "question fragment about overhanging cliffs; options are stray numbers"}
+{"g": 514, "s": "UM", "a": "C"}
+{"g": 515, "s": "ED", "a": "D", "n": "inclined cut = truncated cone; parallel cut = frustum"}
+{"g": 516, "s": "UM", "a": "C"}
+{"g": 517, "s": "UM", "a": "B"}
+{"g": 518, "s": "UM", "a": "X", "n": "options are corrupted pi fragments; rhombus area = d1*d2/2"}
+{"g": 519, "s": "UM", "a": "B"}
+{"g": 520, "s": "SUR", "a": "C"}
+{"g": 521, "s": "IE", "a": "C", "n": "duplicate of gids 404, 510"}
+{"g": 522, "s": "SUR", "a": "A", "n": "duplicate of gid 497"}
+{"g": 523, "s": "UM", "a": "D", "n": "bucket = frustum, V = (pi h/3)(R^2+Rr+r^2), not offered"}
+{"g": 524, "s": "UM", "a": "A"}
+{"g": 525, "s": "UM", "a": "B"}
+{"g": 526, "s": "SUR", "a": "B"}
+{"g": 527, "s": "EM", "a": "A"}
+{"g": 528, "s": "IE", "a": "A", "o": {"A": "precipitation", "B": "evaporation", "C": "transpiration", "D": "condensation"}, "n": "junk '-6' removed; duplicate of gids 404, 510, 521"}
+{"g": 529, "s": "GT", "a": "A"}
+{"g": 530, "s": "UM", "a": "B"}
+{"g": 531, "s": "UM", "a": "A"}
+{"g": 532, "s": "UM", "a": "B"}
+{"g": 533, "s": "CT", "a": "A"}
+{"g": 534, "s": "EST", "a": "A"}
+{"g": 535, "s": "SUR", "a": "C"}
+{"g": 536, "s": "SUR", "a": "A", "n": "face left + bubble up = telescope normal; question garbled but answerable"}
+{"g": 537, "s": "UM", "a": "C"}
+{"g": 538, "s": "UM", "a": "C"}
+{"g": 539, "s": "UM", "a": "C"}
+{"g": 540, "s": "ED", "a": "C"}
+{"g": 541, "s": "UM", "a": "D"}
+{"g": 542, "s": "SUR", "a": "D", "n": "prismatic compass: 0 at S, 90 at W, 180 at N, 270 at E"}
+{"g": 543, "s": "UM", "a": "D"}
+{"g": 544, "s": "UM", "a": "A"}
+{"g": 545, "s": "UM", "a": "B"}
+{"g": 546, "s": "ED", "a": "D", "o": {"A": "cm", "B": "cm²", "C": "cm³", "D": "None of these"}, "n": "option A was print junk; replaced with plausible distractor; RF is dimensionless"}
+{"g": 547, "s": "SUR", "a": "D"}
+{"g": 548, "s": "UM", "a": "X", "n": "10 ha = 24.7 acres; no option correct (options confuse acre->ha conversion)"}
+{"g": 549, "s": "IE", "a": "X", "n": "delta = 8.64B/D; options corrupted/truncated"}
+{"g": 550, "s": "CT", "a": "B"}
+{"g": 551, "s": "UM", "a": "D"}
+{"g": 552, "s": "UM", "a": "B"}
+{"g": 553, "s": "UM", "a": "A"}
+{"g": 554, "s": "AC", "a": "C", "o": {"A": "STRETCH", "B": "EXTEND", "C": "SCALE", "D": "None of the above"}, "n": "options truncated; reconstructed full command names; SCALE resizes by ratio"}
+{"g": 555, "s": "AC", "a": "A"}
+{"g": 556, "s": "AC", "a": "C"}
+{"g": 557, "s": "AC", "a": "D"}
+{"g": 558, "s": "AC", "a": "B"}
+{"g": 559, "s": "AC", "a": "D"}
+{"g": 560, "s": "AC", "a": "B"}
+{"g": 561, "s": "ED", "a": "D", "n": "duplicate of gid 156"}
+{"g": 562, "s": "AC", "a": "A"}
+{"g": 563, "s": "AC", "a": "A", "n": "same concept as gid 565"}
+{"g": 564, "s": "AC", "a": "D"}
+{"g": 565, "s": "AC", "a": "D", "n": "duplicate of gid 563"}
+{"g": 566, "s": "AC", "a": "X", "n": "QuickCalc is Ctrl+8; none of the F-key options is correct"}
+{"g": 567, "s": "AC", "a": "C"}
+{"g": 568, "s": "AC", "a": "C", "n": "same concept as gids 557, 573"}
+{"g": 569, "s": "AC", "a": "B"}
+{"g": 570, "s": "AC", "a": "C"}
+{"g": 571, "s": "AC", "a": "B", "n": "same concept as gid 2"}
+{"g": 572, "s": "AC", "a": "X", "n": "construction line = XLINE; not among options"}
+{"g": 573, "s": "AC", "a": "B", "n": "same concept as gids 557, 568, 569"}
+{"g": 574, "s": "AC", "a": "C"}
+{"g": 575, "s": "AC", "a": "X", "n": "ortho shortcut = F8; options are editing commands - unrelated"}
+{"g": 576, "s": "AC", "a": "C"}
+{"g": 577, "s": "AC", "a": "B"}
+{"g": 578, "s": "ED", "a": "B"}
+{"g": 579, "s": "SUR", "a": "C"}
+{"g": 580, "s": "SUR", "a": "C"}
+{"g": 581, "s": "SUR", "a": "B"}
+{"g": 582, "s": "SUR", "a": "B", "n": "exam-keyed; strictly they coincide on agonic lines, not the equator"}
+{"g": 583, "s": "SUR", "a": "C", "n": "same concept as gid 10 area methods"}
+{"g": 584, "s": "IE", "a": "C"}
+{"g": 585, "s": "EST", "a": "A", "n": "standard 45-degree crank extra = 0.42d, not offered; 0.45d nearest (used in some BBS tables)"}
+{"g": 586, "s": "BM", "a": "C"}
+{"g": 587, "s": "ED", "a": "B"}
+{"g": 588, "s": "CT", "a": "X", "n": "options corrupt ('(' and bare 'Group'); educational = NBC Group B"}
+{"g": 589, "s": "CT", "a": "C", "n": "NBC kitchen (with separate dining) 4.5 m2"}
+{"g": 590, "s": "IE", "a": "A"}
+{"g": 591, "s": "IE", "a": "A"}
+{"g": 592, "s": "CT", "a": "A"}
+{"g": 593, "s": "EST", "a": "A"}
+{"g": 594, "s": "EST", "a": "A"}
+{"g": 595, "s": "IE", "a": "A"}
+{"g": 596, "s": "ED", "a": "B"}
+{"g": 597, "s": "UM", "a": "X", "n": "SI prefix 10^-6 = micro; options are inch/cm conversion numbers - unrelated"}
+{"g": 598, "s": "SUR", "a": "B"}
+{"g": 599, "s": "SUR", "a": "X", "o": {"A": "$360^{\\circ}$", "B": "$400^{g}$", "C": "$120^{\\circ}$", "D": "$60^{\\circ}$"}, "n": "options were corrupt (meridian terms + trailing junk); sexagesimal circumference = 360 deg; kept X since original key unknowable, reconstruction shown"}
+{"g": 600, "s": "SUR", "a": "A"}
+{"g": 601, "s": "SUR", "a": "D", "n": "Punmia: four heads - radiation, intersection, traversing, resection"}
+{"g": 602, "s": "SUR", "a": "D", "n": "same concept as gid 128 (19 years exact here)"}
+{"g": 603, "s": "SUR", "a": "B", "n": "0.0673 x 3^2 = 0.6057 m"}
+{"g": 604, "s": "EST", "a": "B"}
+{"g": 605, "s": "SUR", "a": "B", "o": {"A": "$R \\tan(\\Delta/2)$", "B": "$2R \\sin(\\Delta/2)$", "C": "$2R \\tan(\\Delta/2)$", "D": "$R \\sin(\\Delta/2)$"}, "n": "options truncated; reconstructed standard curve formulas"}
+{"g": 606, "s": "SUR", "a": "C", "o": {"A": "$D = (f/i)s$", "B": "$D = (f/i)s - (f+d)$", "C": "$D = (f/i)s + (f+d)$", "D": "$D = (f/i)s + (f \\times d)$"}, "n": "options A-C truncated; reconstructed; correct D=(f/i)s+(f+d)"}
+{"g": 607, "s": "SUR", "a": "C"}
+{"g": 608, "s": "AC", "a": "B"}
+{"g": 609, "s": "UM", "a": "A"}
+{"g": 610, "s": "UM", "a": "A"}
+{"g": 611, "s": "UM", "a": "D"}
+{"g": 612, "s": "BM", "a": "D", "q": "The type of cast iron which cannot be welded:", "n": "typo 'caste iron' fixed"}
+{"g": 613, "s": "UM", "a": "X", "o": {"A": "100", "B": "1000", "C": "2000", "D": "1500"}, "n": "density of water = 1 g/cm3 (or 1000 kg/m3); as worded no option correct; junk '063/2024 [P.T.O.]' removed from option D"}
+{"g": 614, "s": "SUR", "a": "D"}
+{"g": 615, "s": "UM", "a": "D"}
+{"g": 616, "s": "SUR", "a": "B", "n": "same concept as gids 90, 117, 140"}
+{"g": 617, "s": "SUR", "a": "D"}
+{"g": 618, "s": "SUR", "a": "A", "n": "same concept as gids 3, 18, 78"}
+{"g": 619, "s": "SUR", "a": "B", "n": "stepping is done downhill; uphill gives poor results"}
+{"g": 620, "s": "CT", "a": "C"}
+{"g": 621, "s": "UM", "a": "B"}
+{"g": 622, "s": "EM", "a": "A"}
+{"g": 623, "s": "SUR", "a": "B"}
+{"g": 624, "s": "OTH", "a": "D"}
+{"g": 625, "s": "SUR", "a": "A"}
+{"g": 626, "s": "OTH", "a": "A", "n": "Kerala GK; low confidence - Kelappan, T.R.K. Iyer, P. Krishna Pillai all linked to Kozhikode salt satyagraha"}
+{"g": 627, "s": "OTH", "a": "X", "n": "options garbled + trailing fragment of next question"}
+{"g": 628, "s": "OTH", "a": "C", "n": "Meira Kumar never chaired NCW; 'Poormima' = Poornima Advani typo"}
+{"g": 629, "s": "OTH", "a": "X", "n": "question (amendment/LS seats, answer: 31st) does not match options (Kerala reformers)"}
+{"g": 630, "s": "OTH", "a": "X", "n": "question (Ayyankali associates) does not match options (women-scheme objectives)"}
+{"g": 631, "s": "OTH", "a": "C"}
+{"g": 632, "s": "OTH", "a": "X", "n": "Dharmaraja = Karthika Thirunal Rama Varma; not among options"}
+{"g": 633, "s": "IE", "a": "D"}
+{"g": 634, "s": "ED", "a": "B"}
+{"g": 635, "s": "ED", "a": "X", "n": "regular pentagon interior angle = 108 deg; not offered (72 is the exterior angle)"}
+{"g": 636, "s": "TE", "a": "B"}
+{"g": 637, "s": "EM", "a": "A"}
+{"g": 638, "s": "EM", "a": "D"}
+{"g": 639, "s": "SUR", "a": "A"}
+{"g": 640, "s": "SUR", "a": "D"}
+{"g": 641, "s": "OTH", "a": "B"}
+{"g": 642, "s": "OTH", "a": "A"}
+{"g": 643, "s": "OTH", "a": "A"}
+{"g": 644, "s": "OTH", "a": "C", "n": "Kuriakose Elias Chavara: 'a school with every church'"}
+{"g": 645, "s": "OTH", "a": "X", "n": "options truncated to initials; also time-dependent 'present AG' question"}
+{"g": 646, "s": "OTH", "a": "D", "n": "paper-era answer (Sumitra Mahajan, 16th LS)"}
+{"g": 647, "s": "OTH", "a": "D"}
+{"g": 648, "s": "OTH", "a": "D", "o": {"A": "USA", "B": "Italy", "C": "France", "D": "Russia"}, "n": "option A was corrupt '1.'; replaced with plausible distractor"}
+{"g": 649, "s": "AC", "a": "B"}
+{"g": 650, "s": "SUR", "a": "A", "n": "duplicate of gid 625"}
+{"g": 651, "s": "SUR", "a": "A", "o": {"A": "$0.0673 D^{2}$", "B": "$0.0112 D^{2}$", "C": "$0.0785 D^{2}$", "D": "None of the above"}, "n": "options truncated (lost D^2); reconstructed; same family as gids 86, 144"}
+{"g": 652, "s": "CT", "a": "B"}
+{"g": 653, "s": "CT", "a": "C"}
+{"g": 654, "s": "CT", "a": "D"}
+{"g": 655, "s": "EST", "a": "C", "o": {"A": "7850 quintal/m³", "B": "785 quintal/m³", "C": "78.5 quintal/m³", "D": "None of the above"}, "n": "junk '72/2019 [P.T.O.]' removed from option D"}
+{"g": 656, "s": "IE", "a": "C"}
+{"g": 657, "s": "IE", "a": "B", "n": "same concept as gid 446"}
+{"g": 658, "s": "CT", "a": "X", "n": "question text corrupt beyond recovery (ventilation air per person)"}
+{"g": 659, "s": "BM", "a": "B"}
+{"g": 660, "s": "EST", "a": "C", "n": "d^2/162 = 0.89 kg/m"}
+{"g": 661, "s": "EST", "a": "B", "n": "0.414d = (sqrt2 - 1)d; same concept as gid 585"}
+{"g": 662, "s": "SUR", "a": "D", "o": {"A": "$T \\tan(\\phi/2)$", "B": "$2R\\phi$", "C": "$R \\sin\\phi$", "D": "$2R \\sin(\\phi/2)$"}, "n": "duplicate of gid 605; LaTeX normalized"}
+{"g": 663, "s": "TE", "a": "A"}
+{"g": 664, "s": "EM", "a": "A", "n": "duplicate of gid 622"}
+{"g": 665, "s": "UM", "a": "C"}
+{"g": 666, "s": "BM", "a": "B", "n": "'aqueous' is a synonym distractor; sedimentary is the keyed term"}
+{"g": 667, "s": "IE", "a": "C"}
+{"g": 668, "s": "CT", "a": "A"}
+{"g": 669, "s": "SUR", "a": "C", "n": "physically 'south to north' (cf gid 600) but that option is absent here; exam-keyed N-to-S"}
+{"g": 670, "s": "SUR", "a": "B", "n": "standard value 0.2 mm; options mis-unit as cm"}
+{"g": 671, "s": "UM", "a": "D"}
+{"g": 672, "s": "SUR", "a": "B"}
+{"g": 673, "s": "OTH", "a": "B", "n": "paper-era answer"}
+{"g": 674, "s": "OTH", "a": "A"}
+{"g": 675, "s": "OTH", "a": "C"}
+{"g": 676, "s": "OTH", "a": "D"}
+{"g": 677, "s": "OTH", "a": "C"}
+{"g": 678, "s": "OTH", "a": "C"}
+{"g": 679, "s": "OTH", "a": "B", "n": "intended: first WOMAN Chief Secretary = Padma Ramachandran"}
+{"g": 680, "s": "OTH", "a": "D"}
+{"g": 681, "s": "OTH", "a": "D"}
+{"g": 682, "s": "OTH", "a": "A"}
+{"g": 683, "s": "OTH", "a": "D", "o": {"A": "2014", "B": "2008", "C": "2009", "D": "2006"}, "n": "junk '1.' removed from option D"}
+{"g": 684, "s": "BM", "a": "A"}
+{"g": 685, "s": "CT", "a": "A"}
+{"g": 686, "s": "SUR", "a": "D"}
+{"g": 687, "s": "SOM", "a": "A", "o": {"A": "$M/I = f/y = E/R$", "B": "$M/I = y/f = E/R$", "C": "$I/M = f/y = E/R$", "D": "$M/I = f/y = R/E$"}, "n": "'l' typo for I; LaTeX normalized"}
+{"g": 688, "s": "IE", "a": "B"}
+{"g": 689, "s": "IE", "a": "B"}
+{"g": 690, "s": "IE", "a": "B", "n": "at critical flow v^2/g = h (Froude = 1)"}
+{"g": 691, "s": "IE", "a": "D", "n": "same concept as gid 633"}
+{"g": 692, "s": "EE", "a": "C", "n": "same concept as gid 366"}
+{"g": 693, "s": "GT", "a": "B"}
+{"g": 694, "s": "GT", "a": "C"}
+{"g": 695, "s": "GT", "a": "A"}
+{"g": 696, "s": "TE", "a": "A"}
+{"g": 697, "s": "TE", "a": "A"}
+{"g": 698, "s": "CT", "a": "A", "n": "CPM/PERT -> construction management, bucketed CT"}
+{"g": 699, "s": "GT", "a": "C"}
+{"g": 700, "s": "EST", "a": "A"}
+{"g": 701, "s": "EE", "a": "C"}
+{"g": 702, "s": "BM", "a": "C", "o": {"A": "pith", "B": "heart wood", "C": "cambium", "D": "sapwood"}, "n": "junk '10-' removed from option D"}
+{"g": 703, "s": "CT", "a": "D"}
+{"g": 704, "s": "SUR", "a": "C", "n": "R = 1719/D (30 m arc definition) = 382 m"}
+{"g": 705, "s": "SUR", "a": "A"}
+{"g": 706, "s": "EE", "a": "D"}
+{"g": 707, "s": "EE", "a": "C"}
+{"g": 708, "s": "TE", "a": "A"}
+{"g": 709, "s": "TE", "a": "B"}
+{"g": 710, "s": "IE", "a": "C"}
+{"g": 711, "s": "IE", "a": "A", "n": "duplicate of gid 689"}
+{"g": 712, "s": "EE", "a": "A"}
+{"g": 713, "s": "EE", "a": "C"}
+{"g": 714, "s": "SUR", "a": "C", "o": {"A": "Virtual and Inverted", "B": "Magnified and Inverted", "C": "Real and Inverted", "D": "None of these"}, "n": "junk '3.' removed from option D"}
+{"g": 715, "s": "SUR", "a": "B"}
+{"g": 716, "s": "ED", "a": "B", "o": {"A": "1:20", "B": "1:200", "C": "1:2000", "D": "1:2"}, "n": "duplicate of gid 506; junk '-6-' removed from option D"}
+{"g": 717, "s": "IE", "a": "C"}
+{"g": 718, "s": "IE", "a": "A", "n": "classic: tube well ~2 cusecs = 0.056 cumec"}
+{"g": 719, "s": "IE", "a": "C"}
+{"g": 720, "s": "OTH", "a": "X", "n": "question text reduced to 'kg'; unrecoverable"}
+{"g": 721, "s": "ED", "a": "B", "n": "hole (capital) letter must come first: H8/g7"}
+{"g": 722, "s": "SE", "a": "C"}
+{"g": 723, "s": "OTH", "a": "B"}
+{"g": 724, "s": "OTH", "a": "B"}
+{"g": 725, "s": "OTH", "a": "B"}
+{"g": 726, "s": "UM", "a": "D"}
+{"g": 727, "s": "UM", "a": "X", "n": "mean = 140/7 = 20; not among options (option A corrupt '12.')"}
+{"g": 728, "s": "ED", "a": "D"}
+{"g": 729, "s": "EE", "a": "A"}
+{"g": 730, "s": "ED", "a": "C"}
+{"g": 731, "s": "BM", "a": "A"}
+{"g": 732, "s": "EE", "a": "D", "n": "reflex/check valve = one-way"}
+{"g": 733, "s": "EE", "a": "D"}
+{"g": 734, "s": "SUR", "a": "D", "o": {"A": "Profile leveling", "B": "Reciprocal leveling", "C": "Precise leveling", "D": "Fly leveling"}, "n": "differential levelling; fly levelling is the matching option; junk '-5-' removed"}
+{"g": 735, "s": "SUR", "a": "C"}
+{"g": 736, "s": "SE", "a": "B"}
+{"g": 737, "s": "SE", "a": "C"}
+{"g": 738, "s": "CT", "a": "A"}
+{"g": 739, "s": "SOM", "a": "X", "n": "Z = (pi/32)(D^4-d^4)/D; options truncated identically, key unrecoverable"}
+{"g": 740, "s": "IE", "a": "A", "n": "same concept as gids 446, 657"}
+{"g": 741, "s": "IE", "a": "A"}
+{"g": 742, "s": "EST", "a": "A", "n": "'out-turn' misspelt as 'out term' in options"}
+{"g": 743, "s": "UM", "a": "B"}
+{"g": 744, "s": "CT", "a": "D", "n": "KMBR rear yard min 2.0 m"}
+{"g": 745, "s": "SUR", "a": "C"}
+{"g": 746, "s": "SUR", "a": "X", "n": "the numbered computation list is missing from the question"}
+{"g": 747, "s": "BM", "a": "B", "n": "trap is volcanic (extrusive), not plutonic"}
+{"g": 748, "s": "BM", "a": "A"}
+{"g": 749, "s": "OTH", "a": "X", "n": "question text reduced to 'mm'; unrecoverable"}
+{"g": 750, "s": "IE", "a": "B"}
+{"g": 751, "s": "IE", "a": "A"}
+{"g": 752, "s": "IE", "a": "A"}
+{"g": 753, "s": "GT", "a": "B"}
+{"g": 754, "s": "GT", "a": "D"}
+{"g": 755, "s": "GT", "a": "C"}
+{"g": 756, "s": "EE", "a": "B"}
+{"g": 757, "s": "TE", "a": "B"}
+{"g": 758, "s": "EE", "a": "C"}
+{"g": 759, "s": "EST", "a": "D"}
+{"g": 760, "s": "SUR", "a": "D"}
+{"g": 761, "s": "EST", "a": "A"}
+{"g": 762, "s": "AC", "a": "C"}
+{"g": 763, "s": "TE", "a": "A"}
+{"g": 764, "s": "EE", "a": "C"}
+{"g": 765, "s": "EE", "a": "B"}
+{"g": 766, "s": "BM", "a": "C"}
+{"g": 767, "s": "BM", "a": "C"}
+{"g": 768, "s": "IE", "a": "C"}
+{"g": 769, "s": "EST", "a": "A"}
+{"g": 770, "s": "CT", "a": "A"}
+{"g": 771, "s": "CT", "a": "D"}
+{"g": 772, "s": "ED", "a": "C"}
+{"g": 773, "s": "ED", "a": "B"}
+{"g": 774, "s": "ED", "a": "B"}
+{"g": 775, "s": "SUR", "a": "C"}
+{"g": 776, "s": "SUR", "a": "C"}
+{"g": 777, "s": "UM", "a": "A"}
+{"g": 778, "s": "UM", "a": "B"}
+{"g": 779, "s": "BM", "a": "A"}
+{"g": 780, "s": "EST", "a": "C"}
+{"g": 781, "s": "CT", "a": "B"}
+{"g": 782, "s": "IE", "a": "B"}
+{"g": 783, "s": "IE", "a": "B"}
+{"g": 784, "s": "IE", "a": "A"}
+{"g": 785, "s": "CT", "a": "A"}
+{"g": 786, "s": "CT", "a": "A"}
+{"g": 787, "s": "CT", "a": "A"}
+{"g": 788, "s": "ED", "a": "C"}
+{"g": 789, "s": "UM", "a": "D"}
+{"g": 790, "s": "EM", "a": "B"}
+{"g": 791, "s": "ED", "a": "B"}
+{"g": 792, "s": "UM", "a": "D"}
+{"g": 793, "s": "IE", "a": "A"}
+{"g": 794, "s": "EST", "a": "X", "n": "options corrupted (A-C garbled); NBC Group B Educational; answer X"}
+{"g": 795, "s": "IE", "a": "C"}
+{"g": 796, "s": "EM", "a": "A"}
+{"g": 797, "s": "EM", "a": "B"}
+{"g": 798, "s": "UM", "a": "X", "n": "options corrupted; correct answer is pi radians, none of A-D match"}
+{"g": 799, "s": "ED", "a": "B"}
