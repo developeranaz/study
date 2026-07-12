@@ -1,0 +1,41 @@
+[
+  {
+    "question": "permanent hardness of water can be removed by",
+    "occurrences": [
+      {
+        "subject": "Environmental Engineering",
+        "question_number": 1
+      },
+      {
+        "subject": "Environmental Engineering",
+        "question_number": 31
+      }
+    ]
+  },
+  {
+    "question": "if h is the depth of water retained by a vertical wall, the height of centre of pressure above the bottom is",
+    "occurrences": [
+      {
+        "subject": "Irrigation Engineering",
+        "question_number": 46
+      },
+      {
+        "subject": "Irrigation Engineering",
+        "question_number": 50
+      }
+    ]
+  },
+  {
+    "question": "the theodolite is an instrument used for measuring very accurately",
+    "occurrences": [
+      {
+        "subject": "Surveying",
+        "question_number": 26
+      },
+      {
+        "subject": "Surveying",
+        "question_number": 123
+      }
+    ]
+  }
+]
